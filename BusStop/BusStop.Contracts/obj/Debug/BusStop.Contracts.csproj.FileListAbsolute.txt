@@ -1,0 +1,11 @@
+C:\MVCProject\BusStop\BusStop.Contracts\bin\Debug\BusStop.Contracts.dll
+C:\MVCProject\BusStop\BusStop.Contracts\bin\Debug\BusStop.Contracts.pdb
+C:\MVCProject\BusStop\BusStop.Contracts\bin\Debug\log4net.dll
+C:\MVCProject\BusStop\BusStop.Contracts\bin\Debug\NServiceBus.Core.dll
+C:\MVCProject\BusStop\BusStop.Contracts\bin\Debug\NServiceBus.dll
+C:\MVCProject\BusStop\BusStop.Contracts\bin\Debug\log4net.xml
+C:\MVCProject\BusStop\BusStop.Contracts\bin\Debug\NServiceBus.xml
+C:\MVCProject\BusStop\BusStop.Contracts\bin\Debug\NServiceBus.Core.xml
+C:\MVCProject\BusStop\BusStop.Contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\MVCProject\BusStop\BusStop.Contracts\obj\Debug\BusStop.Contracts.dll
+C:\MVCProject\BusStop\BusStop.Contracts\obj\Debug\BusStop.Contracts.pdb

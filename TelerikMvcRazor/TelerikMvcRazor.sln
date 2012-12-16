@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCMU", "TelerikMvcRazor\RCMU.csproj", "{DB5F4D6D-42D0-4906-8691-1D5FE0BA7C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelerikMvcRazorTests", "TelerikMvcRazorTests\TelerikMvcRazorTests.csproj", "{66964D2F-94B1-415B-BEE7-B3363554DEA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E956526B-132D-43D9-8FB5-931743037AEF}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TelerikMvcRazor.vsmdi = TelerikMvcRazor.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCMU_Domain", "..\RCMU\RCMU_Domain\RCMU_Domain.csproj", "{1DAB5753-20C3-4966-8571-16805E3C3B59}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = TelerikMvcRazor.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5F4D6D-42D0-4906-8691-1D5FE0BA7C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5F4D6D-42D0-4906-8691-1D5FE0BA7C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5F4D6D-42D0-4906-8691-1D5FE0BA7C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5F4D6D-42D0-4906-8691-1D5FE0BA7C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66964D2F-94B1-415B-BEE7-B3363554DEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66964D2F-94B1-415B-BEE7-B3363554DEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66964D2F-94B1-415B-BEE7-B3363554DEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66964D2F-94B1-415B-BEE7-B3363554DEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAB5753-20C3-4966-8571-16805E3C3B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAB5753-20C3-4966-8571-16805E3C3B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAB5753-20C3-4966-8571-16805E3C3B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAB5753-20C3-4966-8571-16805E3C3B59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

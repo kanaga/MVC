@@ -1,0 +1,11 @@
+C:\MVCProject\BusStop\BusStop.Authenticate\bin\Debug\BusStop.Authenticate.dll
+C:\MVCProject\BusStop\BusStop.Authenticate\bin\Debug\BusStop.Authenticate.pdb
+C:\MVCProject\BusStop\BusStop.Authenticate\bin\Debug\log4net.dll
+C:\MVCProject\BusStop\BusStop.Authenticate\bin\Debug\NServiceBus.Core.dll
+C:\MVCProject\BusStop\BusStop.Authenticate\bin\Debug\NServiceBus.dll
+C:\MVCProject\BusStop\BusStop.Authenticate\bin\Debug\log4net.xml
+C:\MVCProject\BusStop\BusStop.Authenticate\bin\Debug\NServiceBus.xml
+C:\MVCProject\BusStop\BusStop.Authenticate\bin\Debug\NServiceBus.Core.xml
+C:\MVCProject\BusStop\BusStop.Authenticate\obj\Debug\ResolveAssemblyReference.cache
+C:\MVCProject\BusStop\BusStop.Authenticate\obj\Debug\BusStop.Authenticate.dll
+C:\MVCProject\BusStop\BusStop.Authenticate\obj\Debug\BusStop.Authenticate.pdb

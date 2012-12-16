@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="0DA08781-1E59-49C6-9240-15A5BB87DE05" ModuleId="BusStop.backend" />
+  <Module PersistentId="7BE047B9-299A-4308-8B0B-13C7FD648BFF" ModuleId="BusStop.Contracts" />
+  <Module PersistentId="C5F0C5DA-6AF4-4D64-97F3-96FA364A725A" ModuleId="BusStop.Authenticate" />
+  <Module PersistentId="9B5978EE-4C82-4E3F-9C02-BB8D42AC6A0C" ModuleId="BusStop" />
+</Modules>

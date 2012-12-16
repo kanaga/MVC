@@ -1,0 +1,8 @@
+C:\MVCProject\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll.config
+C:\MVCProject\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\MVCProject\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\MVCProject\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\EntityFramework.dll
+C:\MVCProject\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\EntityFramework.xml
+C:\MVCProject\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\MVCProject\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\MVCProject\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb

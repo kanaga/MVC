@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="3C787318-2F27-423C-A508-2FEBCDD2EBF6" ModuleId="EFCFCMSAdminTests" />
+  <Module PersistentId="A53599FA-3CF5-4D9F-B869-3F71C149A35D" ModuleId="EFCFCMSAdmin" />
+  <Module PersistentId="60537632-321F-4B99-A7FF-4C100FFD60CF" ModuleId="EFCFCMSDomain" />
+  <Module PersistentId="0B30F6F4-9E02-46C4-B839-DF0B9A715300" ModuleId="CMSAdmin" />
+  <Module PersistentId="140B14FC-7C88-4AC8-95B2-B4F7C84617B6" ModuleId="CMSAdminTests" />
+</Modules>

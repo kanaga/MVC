@@ -1,0 +1,141 @@
+﻿@model RCMU.Models.IndexInstructorData
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th></th>
+        <th>
+            LastName
+        </th>
+        <th>
+            FirstMidName
+        </th>
+        <th>
+            HireDate
+        </th>
+        <th>
+            FullName
+        </th>
+        <th>Office</th>
+    </tr>
+
+@foreach (var item in Model.Instructors)
+{
+
+    string selectedRow = "";
+    if(item.InstructorID == ViewBag.InstructorID)
+    {
+        selectedRow = "selectedrow";
+    }
+    <tr class="@selectedRow" valign="top">
+     <td>
+            @Html.ActionLink("Select","Index",new{id=item.InstructorID})
+            @Html.ActionLink("Edit", "Edit", new { id=item.InstructorID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.InstructorID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.InstructorID })
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstMidName)
+        </td>
+        <td>
+            @String.Format("{0:d}", item.HireDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FullName)
+        </td>
+        @if ((item.OfficeAssignment!=null))
+        {
+            <td>
+                @item.OfficeAssignment.Location
+            </td>
+        }
+       
+    </tr>
+}
+
+</table>
+@if(Model.Courses!=null)
+{
+    <h3>Courses Taken by the Instructors</h3>
+    <table>
+        <tr>
+            <th></th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Department</th>
+        
+        </tr>
+        @foreach (var item in Model.Courses)
+        {
+            string selectedrow = "";
+            
+            if(item.CourseID==ViewBag.CourseID)
+            {
+                selectedrow = "selectedrow";
+            }
+            <tr class="@selectedrow">
+            
+                <td>@Html.ActionLink("Select","Index",new{id=ViewBag.InstructorID,courseid=item.CourseID})</td>
+                <td>@item.CourseID</td>
+                <td>@item.Title</td>
+                <td>@item.Department.Name</td>
+            </tr>
+
+        }
+        
+    
+    </table>
+    
+    
+    
+}
+@if ((Model.Enrollments!=null))
+{
+    <h3>Students Enrolled in the selected Course</h3>
+    <table>
+    <tr>
+       
+        <th>Name</th>
+        <th>Grade</th>
+    
+    
+    
+    </tr>
+    @foreach (var item in Model.Enrollments)
+    {
+        string selectedrow = "";
+        if(item.EnrollmentID == ViewBag.EnrollmentID)
+        {
+            selectedrow = "selectedrow";
+        }
+        <tr class="@selectedrow">
+            
+
+            <td>@item.Student.FullName</td>
+            <td>@item.Grade</td>
+        
+        
+        
+        </tr>
+        
+        
+        
+    }
+    
+    </table>
+    
+    
+    
+    
+}

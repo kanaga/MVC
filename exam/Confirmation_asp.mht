@@ -1,0 +1,2460 @@
+From: "Saved by Windows Internet Explorer 9"
+Subject: Confirmation
+Date: Tue, 22 Nov 2011 23:01:00 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CCA96A.9A16E140"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CCA96A.9A16E140
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.register.prometric.com/Confirmation.asp
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- NON-PORTAL USER --><HTML><HEAD><TITLE>Confirmation</TITLE>
+<SCRIPT language=3DJavaScript type=3Dtext/JavaScript>
+
+function MM_preloadImages() { //v3.0
+  var d=3Ddocument; if(d.images){ if(!d.MM_p) d.MM_p=3Dnew Array();
+    var i,j=3Dd.MM_p.length,a=3DMM_preloadImages.arguments; for(i=3D0; =
+i<a.length; i++)
+    if (a[i].indexOf("#")!=3D0){ d.MM_p[j]=3Dnew Image; =
+d.MM_p[j++].src=3Da[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=3Ddocument.MM_sr; =
+for(i=3D0;a&&i<a.length&&(x=3Da[i])&&x.oSrc;i++) x.src=3Dx.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=3Ddocument; =
+if((p=3Dn.indexOf("?"))>0&&parent.frames.length) {
+    d=3Dparent.frames[n.substring(p+1)].document; n=3Dn.substring(0,p);}
+  if(!(x=3Dd[n])&&d.all) x=3Dd.all[n]; for =
+(i=3D0;!x&&i<d.forms.length;i++) x=3Dd.forms[i][n];
+  for(i=3D0;!x&&d.layers&&i<d.layers.length;i++) =
+x=3DMM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=3Dd.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=3D0,x,a=3DMM_swapImage.arguments; document.MM_sr=3Dnew Array; =
+for(i=3D0;i<(a.length-2);i+=3D3)
+   if ((x=3DMM_findObj(a[i]))!=3Dnull){document.MM_sr[j++]=3Dx; =
+if(!x.oSrc) x.oSrc=3Dx.src; x.src=3Da[i+2];}
+}
+//-->
+=09
+<!--
+function MM_preloadImages() { //v3.0
+  var d=3Ddocument; if(d.images){ if(!d.MM_p) d.MM_p=3Dnew Array();
+	var i,j=3Dd.MM_p.length,a=3DMM_preloadImages.arguments; for(i=3D0; =
+i<a.length; i++)
+	if (a[i].indexOf("#")!=3D0){ d.MM_p[j]=3Dnew Image; =
+d.MM_p[j++].src=3Da[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=3Ddocument.MM_sr; =
+for(i=3D0;a&&i<a.length&&(x=3Da[i])&&x.oSrc;i++) x.src=3Dx.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=3Ddocument; =
+if((p=3Dn.indexOf("?"))>0&&parent.frames.length) {
+	d=3Dparent.frames[n.substring(p+1)].document; n=3Dn.substring(0,p);}
+  if(!(x=3Dd[n])&&d.all) x=3Dd.all[n]; for =
+(i=3D0;!x&&i<d.forms.length;i++) x=3Dd.forms[i][n];
+  for(i=3D0;!x&&d.layers&&i<d.layers.length;i++) =
+x=3DMM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=3Dd.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+	var i
+	var j=3D0
+	var x
+	var a =3D MM_swapImage.arguments;=20
+=09
+	document.MM_sr =3D new Array;=20
+=09
+	for(i=3D0;i<(a.length-2);i+=3D3) {
+		if ((x=3DMM_findObj(a[i]))!=3Dnull){
+			document.MM_sr[j++]=3Dx;=20
+			if(!x.oSrc)x.oSrc=3Dx.src;x.src=3Da[i+2];
+		}
+	}
+}
+
+function change(which,replace){
+	which.src =3D replace
+}
+// this function highlights the box on the left of segment headers with =
+the appropriate color
+function highlight(hiliteBox, state)
+{
+	if (state=3D=3D"on")
+	{
+		document.getElementById(hiliteBox).style.backgroundColor =3D =
+"#993333";
+	}
+	else
+	{
+		document.getElementById(hiliteBox).style.backgroundColor =3D =
+"#E4E5D7";
+	}
+	return false;
+}
+//-->
+</SCRIPT>
+
+<META name=3DKEYWORDS=20
+content=3D"2test, www.totest.com, oracle faqs, certification, =
+certifications, prometric, microsoft, cisco, testing ">
+<META name=3DDESCRIPTION=20
+content=3D"Prometric's online registration website. We provide =
+certification exams for Academic Admissions, =
+Architect/Engineering/Construction Certifications, Federal Aviation =
+Administration, Finance/Banking/Accounting Certifications, Government: =
+Federal, State, Local, Health/Medical Certifications, Information =
+Technology Certifications, Insurance/Real Estate/Legal Certifications. =
+We also help you to find a testing center to take your exam.">
+<META content=3D"text/html; charset=3Dutf-8" http-equiv=3Dcontent-type>
+<SCRIPT language=3Djavascript type=3Dtext/javascript=20
+src=3D"https://www.register.prometric.com/scripts/global.js"></SCRIPT>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript=20
+src=3D"https://www.register.prometric.com/scripts/instantiation.js"></SCR=
+IPT>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript=20
+src=3D"https://www.register.prometric.com/scripts/cscall.js"></SCRIPT>
+
+<SCRIPT language=3DJavaScript>
+function popUp(url) {
+sealWin=3Dwindow.open(url,"win",'toolbar=3D0,location=3D0,directories=3D0=
+,status=3D1,menubar=3D1,scrollbars=3D1,resizable=3D1,width=3D710,height=3D=
+450');
+self.name =3D "mainWin";
+}
+</SCRIPT>
+
+<META name=3DGENERATOR content=3D"MSHTML 9.00.8112.16437"></HEAD>
+<BODY onload=3Dself.focus(); leftMargin=3D0 topMargin=3D0 =
+bgColor=3D#ffffff=20
+marginheight=3D"0" marginwidth=3D"0">
+<DIV style=3D"DISPLAY: block" id=3DmainTable><!-- MASTHEAD START -->
+<DIV id=3Dcontainer>
+<DIV id=3Dtopphoto><IMG style=3D"WIDTH: 679px; HEIGHT: 112px" =
+alt=3D"test taker"=20
+src=3D"https://www.register.prometric.com/images/s.gif"><IMG=20
+style=3D"BORDER-RIGHT-WIDTH: 0px; WIDTH: 293px; BORDER-TOP-WIDTH: 0px; =
+BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 112px; BORDER-LEFT-WIDTH: 0px"=20
+alt=3DPrometric =
+src=3D"https://www.register.prometric.com/images/logo_prometric.gif"=20
+useMap=3D#Map></DIV>
+<DIV style=3D"DISPLAY: none"><MAP id=3DMap name=3DMap><AREA=20
+  href=3D"http://www.prometric.com/" shape=3Drect target=3D_blank=20
+  coords=3D'coords=3D"5,48,247,97"'></MAP></DIV>
+<DIV id=3Dtopcolorbar><IMG style=3D"WIDTH: 972px; HEIGHT: 46px"=20
+alt=3D"For Test Takers"=20
+src=3D"https://www.register.prometric.com/images/s.gif"></DIV><!-- =
+MASTHEAD END -->
+<DIV id=3Dleftcontent><!--START OF LEFT NAV-->
+<DIV class=3DleftNavContainer>
+<DIV class=3DleftNavMenuStepsTitle><SPAN=20
+class=3DleftNavMenuStepsItemTitle></SPAN></DIV>
+<DIV style=3D"HEIGHT: 10px"></DIV>
+<DIV class=3DleftNavStepsContainer>
+<DIV>
+<DIV class=3DleftNavMenuSteps><SPAN class=3DleftNavMenuStepsItem><A=20
+href=3D"http://www.register.prometric.com/Index.asp?tcl=3D1">Locate a =
+Test Site=20
+</A></SPAN></DIV></DIV>
+<DIV>
+<DIV class=3DleftNavMenuSteps><SPAN class=3DleftNavMenuStepsItem><A=20
+href=3D"http://www.register.prometric.com/SeatAvailability.asp">Search =
+for Seat=20
+Availability </A></SPAN></DIV></DIV>
+<DIV>
+<DIV class=3DleftNavMenuSteps><SPAN class=3DleftNavMenuStepsItem><A=20
+href=3D"http://www.register.prometric.com/ClientProgram.asp">Schedule an =
+
+Appointment </A></SPAN></DIV></DIV>
+<DIV>
+<DIV class=3DleftNavMenuSteps><SPAN class=3DleftNavMenuStepsItem><A=20
+href=3D"http://www.register.prometric.com/ClientProgram.asp">Exam Fees=20
+</A></SPAN></DIV></DIV>
+<DIV>
+<DIV class=3DleftNavMenuSteps><SPAN class=3DleftNavMenuStepsItem><A=20
+href=3D"http://www.register.prometric.com/Index.asp">Change Test =
+Country/State=20
+</A></SPAN></DIV></DIV>
+<DIV>
+<DIV class=3DleftNavMenuSteps><SPAN class=3DleftNavMenuStepsItem><A=20
+href=3D"https://www.register.prometric.com/RescheduleCancel.asp">Reschedu=
+le/Cancel=20
+an Exam </A></SPAN></DIV></DIV>
+<DIV>
+<DIV class=3DleftNavMenuSteps><SPAN class=3DleftNavMenuStepsItem><A=20
+href=3D"https://www.register.prometric.com/CandidateHistory.asp">View/Pri=
+nt=20
+Receipt </A></SPAN></DIV></DIV>
+<DIV>
+<DIV class=3DleftNavMenuSteps><SPAN class=3DleftNavMenuStepsItem><A=20
+href=3D"https://www.register.prometric.com/CandidateHistory.asp">Candidat=
+e History=20
+</A></SPAN></DIV></DIV>
+<DIV>
+<DIV class=3DleftNavMenuSteps><SPAN class=3DleftNavMenuStepsItem><A=20
+href=3D"https://www.register.prometric.com/ChangeProfile.asp">Update =
+Personal=20
+Information </A></SPAN></DIV></DIV>
+<DIV>
+<DIV class=3DleftNavMenuSteps><SPAN class=3DleftNavMenuStepsItem><A=20
+href=3D"https://www.register.prometric.com/ChooseLogin.asp">Change =
+Password=20
+</A></SPAN></DIV></DIV>
+<P></P>
+<DIV>
+<DIV class=3DleftNavMenuSteps><SPAN class=3DleftNavMenuStepsItem><A=20
+href=3D"http://www.register.prometric.com/Logout.asp">Logout=20
+</A></SPAN></DIV></DIV></DIV></DIV></DIV><!--END OF LEFT NAV - START OF =
+CONTENT--><!-- MAIN CONTENT START -->
+<DIV id=3Drightcontent>
+<FORM method=3Dpost name=3DPayment action=3Dpayment.asp>
+<SCRIPT=20
+src=3D"https://www.register.prometric.com/scripts/FormValidation.js"></SC=
+RIPT>
+<INPUT name=3Dmode value=3D1 type=3Dhidden>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D440>
+  <TBODY>
+  <TR>
+    <TD class=3Dcenter vAlign=3Dtop colSpan=3D2></TD></TR>
+  <TR>
+    <TD class=3DcenterHead vAlign=3Dtop colSpan=3D2>Exam Confirmation =
+</TD></TR>
+  <TR>
+    <TD class=3Dcenter vAlign=3Dtop colSpan=3D2>Please print this page =
+for your=20
+      records. </TD></TR></TBODY></TABLE>
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD><IMG border=3D0 alt=3D""=20
+      src=3D"https://www.register.prometric.com/images/spacer.gif" =
+width=3D3=20
+      height=3D8></TD></TR></TBODY></TABLE>
+<TABLE border=3D0 cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD class=3DcenterSubHead vAlign=3Dtop colSpan=3D2>Exam Registration =
+Summary=20
+  </TD></TR>
+  <TR>
+    <TD class=3Dcenter colSpan=3D2>There is no new test information to =
+confirm.=20
+      <BR><BR>Please go to <A=20
+      =
+href=3D"https://www.register.prometric.com/CandidateHistory.asp">candidat=
+e=20
+      history </A>to see your existing exam information.=20
+</TD></TR></TBODY></TABLE></FORM></DIV><!-- MAIN CONTENT END --><!-- =
+FOOTER START -->
+<DIV class=3Dclearfloat>&nbsp;</DIV>
+<DIV id=3Dfooter><SPAN class=3Dfooterprometric><A =
+href=3D"http://www.prometric.com/"=20
+target=3D_blank>Prometric.com</A> </SPAN>&nbsp;&nbsp;|&nbsp;&nbsp; <SPAN =
+
+class=3Dfooterservices><A href=3D"http://www.prometric.com/services"=20
+target=3D_blank>Prometric Services</A> </SPAN>&nbsp;&nbsp;|&nbsp;&nbsp; =
+<SPAN=20
+class=3Dfooternetwork><A href=3D"http://www.prometric.com/network" =
+target=3D_blank>For=20
+Network Partners and Test Centers</A> </SPAN>&nbsp;&nbsp;|&nbsp;&nbsp; =
+<SPAN=20
+class=3Dfooterbasic><A=20
+href=3D"http://www.prometric.com/AboutUs/Copyright/default.htm"=20
+target=3D_blank>Copyright Notices</A> </SPAN>&nbsp;&nbsp;|&nbsp;&nbsp; =
+<SPAN=20
+class=3Dfooterbasic><A =
+href=3D"http://www.prometric.com/AboutUs/Terms/default.htm"=20
+target=3D_blank>Terms of Use</A> </SPAN>&nbsp;&nbsp;|&nbsp;&nbsp; <SPAN=20
+class=3Dfooterbasic><A =
+href=3D"http://www.prometric.com/AboutUs/Privacy/default.htm"=20
+target=3D_blank>Privacy</A> </SPAN></DIV></DIV></DIV>
+<DIV></DIV>
+<SCRIPT type=3Dtext/javascript>
+var gaJsHost =3D (("https:" =3D=3D document.location.protocol) ? =
+"https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src=3D'" + gaJsHost + =
+"google-analytics.com/ga.js' =
+type=3D'text/javascript'%3E%3C/script%3E"));
+</SCRIPT>
+
+<SCRIPT type=3Dtext/javascript>
+var pageTracker =3D _gat._getTracker("UA-3677066-2");
+pageTracker._trackPageview();
+</SCRIPT>
+
+<DIV></DIV>
+<DIV id=3DwaitScreen class=3DpnlWaitScreen>
+<DIV style=3D"TEXT-ALIGN: center; MARGIN: 20px 0px"><IMG=20
+style=3D"BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; =
+BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px"=20
+src=3D"https://www.register.prometric.com/Images/prometric_BW_Large.gif">=
+</DIV>
+<DIV style=3D"TEXT-ALIGN: center; MARGIN-BOTTOM: 20px"><SPAN=20
+class=3DbodyTitles>Please do not close this window while we are =
+processing your=20
+request.</SPAN></DIV>
+<DIV style=3D"TEXT-ALIGN: center; MARGIN-BOTTOM: =
+20px"><SPAN></SPAN></DIV>
+<DIV style=3D"TEXT-ALIGN: center; MARGIN-BOTTOM: 20px">
+<TABLE style=3D"MARGIN: 0px auto">
+  <TBODY>
+  <TR>
+    <TD vAlign=3Dtop align=3Dcenter>
+      <SCRIPT language=3Djavascript>
+	            var blnFlash =3D false;=20
+
+	            if (navigator.plugins && navigator.plugins.length)
+	            {
+	                x =3D navigator.plugins["Shockwave Flash"];
+	                if (x)
+	                {
+	                    blnFlash =3D true;
+	                }
+	                if (navigator.plugins["Shockwave Flash 2.0"])
+	                {
+	                    blnFlash =3D true;
+	                }
+	            }
+	            else if (navigator.mimeTypes && navigator.mimeTypes.length)
+	            {
+	                x =3D =
+navigator.mimeTypes['application/x-shockwave-flash'];
+	                if (x && x.enabledPlugin)
+	                    blnFlash =3D true;
+	            }
+											               =20
+	            if (blnFlash =3D=3D false)
+	            {
+	               for(var i=3D7; i>0; i--)
+	               {
+	                    try
+	                    {
+	                        var flash =3D new =
+ActiveXObject("ShockwaveFlash.ShockwaveFlash." + i);
+	                        blnFlash =3D true;
+	                        break;
+	                    }
+	                    catch(e)
+	                    {
+	                    }
+	                }
+	             }
+											    	        =20
+	             if (blnFlash)
+	             { =20
+	                document.write('<object =
+classid=3D"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" =
+codebase=3D"https://download.macromedia.com/pub/shockwave/cabs/flash/swfl=
+ash.cab#version=3D5,0,42,0" id=3D"ProgressBar" width=3D"261" =
+height=3D"10" VIEWASTEXT><param name=3D"movie" =
+value=3D"images/ProgressBar.swf"><param name=3D"bgcolor" =
+value=3D"#FFFFFF"><param name=3D"quality" value=3D"high"><param =
+name=3D"allowscriptaccess" value=3D"samedomain"><embed =
+type=3D"application/x-shockwave-flash" =
+pluginspage=3D"http://www.macromedia.com/go/getflashplayer" =
+width=3D"261" height=3D"10" name=3D"ProgressBar" =
+src=3D"images/ProgressBar.swf" bgcolor=3D"#FFFFFF" quality=3D"high" =
+swLiveConnect=3D"true" =
+allowScriptAccess=3D"samedomain"></embed></object>');
+	             }
+	             else
+	             { =20
+	                document.write('<IMG src=3D"images/ProgressBar.gif" =
+border=3D"0" runat=3D"server" />');
+	             }
+	      </SCRIPT>
+    </TD></TR></TBODY></TABLE></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0000_01CCA96A.9A16E140
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.register.prometric.com/images/s.gif
+
+R0lGODlhAQABAJH/AP///wAAAMDAwAAAACH5BAEAAAIALAAAAAABAAEAAAICVAEAOw==
+
+------=_NextPart_000_0000_01CCA96A.9A16E140
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.register.prometric.com/images/logo_prometric.gif
+
+R0lGODlhJQFwAPcAAP////q+Qvm8QfvBQ/m9Qvi6QPu/QvvAQvi7QPq9Qve5P/e3Pva2PgAAAIHB
+MKTSav3OZUxMTPrBSf3NYURERPzESazWdvnBVdvtxPrJaPnBUfrBTXNzc/zJWfj4+Pa1QhEREfX1
+9fvFUfzKXfa5SVFRUf3QbS0tLfnFYcXFxXx8fPzOadHR0fzCRePx0vrIZfrEVfHx8czmq/nFXfi5
+PuXl5fi9SVtbW/W2Rf3ScfvAQ5mZmer13PrARPT57PjAW/SxOvjFZcrKyurq6u3t7fn89RYWFvzI
+VfjCWfrFWtbW1s3Nzfa4RffDY/SyQQUFBfW5TCEhId3d3fz8/K2trQ0NDfzDRva1PJWVlSgoKCUl
+JbS0tPjCXdnZ2bPagqWlpe324vvETva0PPrIYYSEhP3ERjU1NfS1SQkJCfzObcLhnPSyO/3MXpDJ
+SmlpaRkZGfe4PvzBQ/e4Pz09PY3HRI2Njfm+TPi+UeHh4cHBwb29vfq/Q/e9UZ2dnfz9+fOxQfzB
+RNXquve4Qv3Qafe+Vfm9Qb3ekvzDRdHptICAgPrARv7+/vq+Q/i8RKCgoKmpqfi6RvzKYVVVVfm8
+QP7+/fe8TYnFPZGRkbm5ufvNbfvCR/WzPPOyRPb78YiIiN7vyfq/Qv3ER8nkpvm+Rf3FR/3rx/jG
+aPq9QfvMav3FRpXLUf///mFhYbndjB0dHfm7QGZmZjIyMvq+RPvIXvi7QTk5ObKysvzGWPrAQ/i5
+QPi8R/q+QYTDNvvDSwMDA8bjofm+QvzER+HwzbDYffvDSPu/Q/m7Qfe6Q/m+R/zERvrKbPzFTPe3
+P4bEOvm9QLbciPq+R5rNWfa3PvvHVvSzRQEBAfm8QvjDYfv9+ILBMva7Uf3++/rAQufz1/vCRfH4
+6Pm8Q/zFSPvHU/vcn4PCM9jswPzfp/e+WPm9Q/757vvLZfzLZPjAVvfEZ/vHW/u+Q/i6Qf736ve+
+V/i8Qfe5Pr/flve6P4PCNPzPcPm6Qfa1PfnARu/35fe4Q4HBMf3LWyH5BAAAAAAALAAAAAAlAXAA
+AAj/AAcIHEiwoMGDCBMqXMiwocOHECNKnEixYkEdcTLGGaCjo44DIEOK9OhxgEZALQ4ditOipUuV
+yZKVmUmzTKqbN0Xq3Mmzp8+fQIMKHUq0qNGjSJMGJcm0KcGPB7hxAwXKgIEDVrNqzRqypMmTXzO6
+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
+
+------=_NextPart_000_0000_01CCA96A.9A16E140
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.register.prometric.com/images/spacer.gif
+
+R0lGODlhCgAKAIAAAAAAAAAAACH5BAEAAAAALAAAAAAKAAoAAAIIhI+py+0PYysAOw==
+
+------=_NextPart_000_0000_01CCA96A.9A16E140
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.register.prometric.com/Images/prometric_BW_Large.gif
+
+R0lGODdh+QBgAOf7AAABAAEEAAMGAQcKBg4QDBIUERYYFRocGR4gHSIkISYoJiosKi4wLTI0MTY4
+NTo8OT5APUJDQUhJR05QTVJUUVZYVVpbWV1fXGFjYGVnZGhqZ21vbHN1cnl7eH5/fYGDgIeIhYyN
+i3uaRo+RjpSWk4CrH42hXIimS4CrOIKrP3uvMJqcmYSrR4mpWIusPomuM4KsYpOmbIWtUJyjiIK1
+LJ+hnoezN5SsX4G2N5GtZZOvTYS1RY2zQIuzR4uzToC9D6OloqOnl5evcIy0X32/IIq2WIa9IpC1
+WJO5Mou2a466Pqeppoq8Rou/OYu+UI/AMZC8VoLIFKutqorDMpLCKZ+4aZi9TYrHIJu7ao3DRJm9
+X529Wauyoqe2h5+9YJXAaqi5gLCyrpzFL5PJJbK2l6K+d6e9fJTHVLO1sp7BeZPMM7G7l6DFZ53G
+b6fAmKrDc7m6pLe5trq9mqnFfqHLZbu9urHFi6XKgavKc7DHhb3BsL7Cq6zNfLfHnKjQcKbRe8DD
+v7LLnq7Th7zPi7nPlLfPmsXHxLXSicLPncXMtLTXhcnLx73VpsLWoc3PzM3RwLzao8HbnszZprrf
+oMnboNHU0LvhlsfenNHYvtbXwL7jkMreqcjdvM7dtcfgsdbY1cXiuMXkrNbcytrc2dbjsNnkvtHp
+pd7g3dHoudbordLqtM7to93k2dbox8/rwc7vsOPm09TusOPl4trsxN3tv+Lr0ubszdvyvOjq59jz
+xN/y0Obxy+Xw3ejv5Ozv2+Hz2Ozu6uH2wNz7tef3yO/x7t38yub50PT13uH80vL08OT+wOD/xvT2
+8+748/f27eb92uf+zvb1/fT45+v+yO765/v0///09fL57vb49Of/4+z/1u//0Pf4///2/Pf59uv+
+6e7+4/P+1vT6/fH/3vv5/f759/n7+Pj+3/P9+P/68+//8e3/+PP/7Pb/5vr8+f388/z/2v37///+
+4fL///v9+v/8+/j/9Pb/+vv/7v7/5//+7//9//n///z/+///9f7//CwAAAAA+QBgAAAI/gD/CRxI
+sKDBgwgTKlzIsKHDhxAjSpwoMF48g/fuDaRX7iLFjyBDihxJsqRJiBYZxit3sqXLlzBjykyYsiC6
+Zs280ftXc6bPn0CDCu0pUGPBciyFKl3KtGlEovfssbpGkKjTq1izAiVqz94jVs3Q6bSqtazZsyC5
+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
+
+------=_NextPart_000_0000_01CCA96A.9A16E140
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.register.prometric.com/scripts/global.js
+
+
+
+function imgOn(name) {
+   if (document.images){
+      document.images[name].src=3Deval(name + "On.src");
+   }
+}
+
+function imgOff(name) {
+   if (document.images){
+      document.images[name].src=3Deval(name + "Off.src");
+   }
+}
+
+function Popup(page)=20
+{
+	styleWin =3D =
+window.open(page,'styleomattic','toolbar=3D0,location=3Dno,directories=3D=
+0,status=3D0,menubar=3D0,scrollbars=3D1,resizable=3D1,width=3D500,height=3D=
+540,top=3D0,left=3D0');
+=09
+	if (navigator.appName =3D=3D "Netscape")=20
+		styleWin.focus();
+}
+
+function newWindow(page)=20
+{
+	styleWin =3D =
+window.open(page,null,'toolbar=3D1,location=3Dyes,directories=3D0,status=3D=
+1,menubar=3D1,scrollbars=3D1,resizable=3D1,width=3D800,height=3D600,top=3D=
+10,left=3D10');
+=09
+	if (navigator.appName =3D=3D "Netscape")=20
+		styleWin.focus();
+}
+
+function back()
+{
+    window.history.back()
+}
+
+function setVal(cookieName,strVal)
+{
+    document.cookie =3D cookieName + "=3D" + escape(strVal) + "; =
+path=3D/;";
+    return "yes";
+}
+
+
+------=_NextPart_000_0000_01CCA96A.9A16E140
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.register.prometric.com/scripts/instantiation.js
+
+var popup;
+
+
+function ShowWindow()
+	{
+		var ie =3D (navigator.appName.indexOf("Explorer") > -1) ? true : =
+false;
+	=09
+		var centerX =3D screen.availWidth / 2;
+        var centerY =3D screen.availHeight / 2;
+
+        var WinLeft =3D parseInt(centerX - (350/2)) ;
+        var WinTop =3D parseInt(centerY - (250/2));
+
+	=09
+		if (ie){
+				var innerWidth =3D document.body.clientWidth;
+        		var innerHeight =3D document.body.clientHeight;
+				popup =3D window.open("Processing.asp","instantiation", =
+"height=3D228 ,width=3D345", "left=3DWinLeft", "top=3DWinTop", =
+"Titlebar=3Dno");
+		}
+		else {
+				var innerWidth =3D window.innerWidth;
+        		var innerHeight =3D window.innerHeight;
+				popup =3D window.open("Processing.asp","instantiation", =
+"height=3D228,innerHeight=3D228,width=3D345,innerWidth=3D345", =
+"ScreenX=3DWinLeft", "ScreenY=3DWinTop");
+		}
+
+		//popup.moveTo(WinLeft,WinTop)
+	}
+=09
+=09
+function ShowRefundPolicy()
+	{
+		var ie =3D (navigator.appName.indexOf("Explorer") > -1) ? true : =
+false;
+	=09
+		var centerX =3D screen.availWidth / 2;
+        var centerY =3D screen.availHeight / 2;
+
+        var WinLeft =3D parseInt(centerX - (350/2)) ;
+        var WinTop =3D parseInt(centerY - (250/2));
+
+	=09
+		if (ie){
+				var innerWidth =3D document.body.clientWidth;
+        		var innerHeight =3D document.body.clientHeight;
+				popup =3D window.open("RefundPolicy.asp","instantiation", =
+"height=3D328 ,width=3D345", "left=3DWinLeft", "top=3DWinTop", =
+"Titlebar=3Dno");
+		}
+		else {
+				var innerWidth =3D window.innerWidth;
+        		var innerHeight =3D window.innerHeight;
+				popup =3D window.open("RefundPolicy.asp","instantiation", =
+"height=3D328,innerHeight=3D228,width=3D345,innerWidth=3D345", =
+"ScreenX=3DWinLeft", "ScreenY=3DWinTop");
+		}
+
+		//popup.moveTo(WinLeft,WinTop)
+	}
+=09
+function ShowCVV2Help()
+	{
+		var ie =3D (navigator.appName.indexOf("Explorer") > -1) ? true : =
+false;
+	=09
+		var centerX =3D screen.availWidth / 2;
+        var centerY =3D screen.availHeight / 2;
+
+        var WinLeft =3D parseInt(centerX - (350/2)) ;
+        var WinTop =3D parseInt(centerY - (250/2));
+
+	=09
+		if (ie){
+				var innerWidth =3D document.body.clientWidth;
+        		var innerHeight =3D document.body.clientHeight;
+				popup =3D window.open("CVV2Help.asp","instantiation", "height=3D540 =
+,width=3D450", "left=3DWinLeft", "top=3DWinTop", "Titlebar=3Dno");
+		}
+		else {
+				var innerWidth =3D window.innerWidth;
+        		var innerHeight =3D window.innerHeight;
+				popup =3D window.open("CVV2Help.asp","instantiation", =
+"height=3D540,innerHeight=3D228,width=3D450,innerWidth=3D345", =
+"ScreenX=3DWinLeft", "ScreenY=3DWinTop");
+		}
+
+		//popup.moveTo(WinLeft,WinTop)
+	}
+=09
+=09
+function CloseWindow()
+	{=09
+		window.close();
+	}
+=09
+
+------=_NextPart_000_0000_01CCA96A.9A16E140
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.register.prometric.com/scripts/cscall.js
+
+document.alinkColor=3D"#FFCC00"
+document.write('<link href=3D"/css/ALLmainStyle.css" rel=3D"styleSheet" =
+type=3D"text/css">');
+document.close
+
+
+------=_NextPart_000_0000_01CCA96A.9A16E140
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.register.prometric.com/scripts/FormValidation.js
+
+//
+//	FILE	FormValidation.js
+//	DESC	JavaScript functions for validating form fields
+//
+
+var phoneNumberDelimiters =3D "()- ";
+var dateDelimiters =3D "/- ";
+var cityDelimiters =3D ".- `'";
+var zipDelimiters =3D "- ";
+var heightDelimiters =3D "cCmMiInN ";
+var weightDelimiters =3D "kKgGlLbB ";
+var invalidASCIImsg =3D "You have used an invalid character.\r\r You can =
+only use a-z, A-Z, 0-9, \r or the following symbols:\r ! \" # $ % & \' ( =
+) * + \' - . / : ; < =3D > ? @ [ \\ ] ^ _ ` { | ~ "
+
+// strip all characters in string bag from string s
+// and return the results in a string format
+function stripCharsInBag(s, bag) {  =20
+    var i;
+    var returnString =3D "";
+	if ( s.value !=3D null) {
+		for (i =3D 0; i < s.value.length; i++) {  =20
+		   var c =3D s.value.charAt(i);
+		    if ( bag.indexOf(c) =3D=3D -1 ) {
+		    	returnString +=3D c;
+			}
+		}
+	}
+    return returnString;
+}
+
+function trim(s) {
+	var i;
+	var startIndex;
+	var endIndex;
+	var returnString =3D "";
+	var lcv =3D -1;
+	endIndex =3D s.value.length-1;
+=09
+	while ( s.value.charAt(endIndex) =3D=3D ' ' && endIndex >=3D 0 ) {
+		endIndex--;
+	}
+=09
+	for ( startIndex =3D 0; startIndex <=3D endIndex; startIndex++ ) {
+		var c =3D s.value.charAt(startIndex);
+		if (c !=3D ' ') {
+			lcv =3D 1;
+		}
+		if (lcv !=3D -1) {
+			returnString +=3D c;
+		}
+	}
+	s.value =3D returnString;
+}
+
+// return true if the character c is a digit
+function isDigit(c) {  =20
+    return ((c >=3D "0") && (c <=3D "9"))
+}
+
+
+function isLetter (c) {  =20
+    return ( ((c >=3D "a") && (c <=3D "z")) || ((c >=3D "A") && (c <=3D =
+"Z")) )
+}
+
+
+
+
+function isAlphabetic (s) {  =20
+    var c;
+    var i;
+
+    for (i =3D 0; i < s.length; i++) {  =20
+        c =3D s.charAt(i);
+        if  ( !isLetter(c) ) return false;
+    }
+    return true;
+}
+
+function isValidASCIIString (s) {  =20
+
+    var i;
+
+    for (i =3D 0; i < s.length; i++) {  =20
+        if  ( s.charCodeAt(i) > 126 ) return false;
+    }
+    return true;
+}
+
+
+// return true if the string s contains all numbers
+function isInteger(s) {  =20
+    var i;
+
+    for (i =3D 0; i < s.length; i++) {  =20
+        // Check that current character is number.
+        var c =3D s.charAt(i);
+
+        if (!isDigit(c)) return false;
+    }
+
+    return true;
+}
+
+
+=20
+function isAlphanumeric(s) {  =20
+    var c;
+    var i;
+
+    for (i =3D 0; i < s.length; i++) {  =20
+        c =3D s.charAt(i);
+        if  ( (!isLetter(c)) && (!isInteger(c)) ) return false;
+    }
+    return true;
+}
+
+
+function isDate(date, msg) {
+    var noDelimiters =3D stripCharsInBag(date, dateDelimiters);
+    if  ( ( isInteger(noDelimiters) =3D=3D false ) || ( noDelimiters =
+=3D=3D '' ) ) {
+		return false;
+    }
+	//test length
+    if  ( ( noDelimiters.length !=3D 8 )) {
+		return false;
+	}
+	//test month
+	if ( ( noDelimiters.substr(0,2) > 12 || noDelimiters.substr(0,2) < 1 ) =
+) {
+		return false;
+	}
+	//test day
+	if ( ( noDelimiters.substr(2,2) > 31 || noDelimiters.substr(2,2) < 1 ) =
+) {
+		return false;
+	}
+	//test year
+	if ( ( noDelimiters.substr(4) > 2072 || noDelimiters.substr(4) < 1900 ) =
+) {
+		return false;
+	}
+    return true;
+}
+
+
+function isRadioChecked(thisRadio) {
+    for  ( var i =3D 0; i < thisRadio.length; i++ ) {
+		if  ( thisRadio[i].checked =3D=3D true ) {
+		    return true;
+		}
+    }
+    return false;
+}
+
+function isValidCardExpiration(month, year) {
+    var today =3D new Date();
+    var theDate =3D new Date(month[month.selectedIndex].value + "/" + =
+today.getDate()+ "/" + year[year.selectedIndex].value);
+    var thisDay =3D ((today.getMonth() + 1)  + "/" + today.getDate() + =
+"/" + today.getFullYear());
+    var testDate =3D new Date(thisDay);
+    // return difference in milliseconds
+    var daysDiff =3D theDate.valueOf() - testDate.valueOf();
+
+    var currentDate =3D new Date();
+    var expMonth =3D parseInt(month[month.selectedIndex].value);
+    var expYear =3D parseInt(year[year.selectedIndex].value);
+    thisMonth =3D currentDate.getMonth() + 1;
+    thisYear =3D currentDate.getFullYear();
+
+    // result must be at least 2 days
+    if  ( (daysDiff/8.64e7) < 0 ) {
+    	return false;
+    }
+    else {
+    	return true;
+    }
+    return true;
+}
+
+function isFutureDate(day, month, year) {
+	// dranck Changed to do date math and to require 24 hr in advance
+	var theDate =3D new Date(month.value + "/" + day.value + "/" + =
+year.value);
+	var today =3D new Date();
+	var thisDay =3D ((today.getMonth() + 1)  + "/" + today.getDate() + "/" =
++ today.getFullYear());
+	var testDate =3D new Date(thisDay);
+	// return difference in milliseconds
+	var daysDiff =3D theDate.valueOf() - testDate.valueOf();
+	// result must be at least 2 days
+	if ( (daysDiff/8.64e7) < 2 ) {
+		return false;
+	} else {
+    	return true;
+	}
+}
+
+
+function isAmericanExpress(cc) {
+  firstdig =3D cc.substring(0,1);
+  seconddig =3D cc.substring(1,2);
+  if ( (cc.length =3D=3D 15) && (firstdig =3D=3D 3) && ((seconddig =
+=3D=3D 4) || (seconddig =3D=3D 7)) )=20
+  	return isCreditCard(cc);
+  return false;
+
+} // END FUNCTION isAmericanExpress()
+
+
+function isMasterCard(cc) {
+  firstdig =3D cc.substring(0,1);
+  seconddig =3D cc.substring(1,2);
+  if ( (cc.length =3D=3D 16) && (firstdig =3D=3D 5) && ((seconddig >=3D =
+1) && (seconddig <=3D 5)) )
+    return isCreditCard(cc);
+  return false;
+
+} // END FUNCTION isMasterCard()
+
+
+function isVisa(cc) {
+  if ( ((cc.length =3D=3D 16) || (cc.length =3D=3D 13)) && =
+(cc.substring(0,1) =3D=3D 4) )
+    return isCreditCard(cc);
+  return false;
+}  // END FUNCTION isVisa()
+
+
+function isCreditCard(st) {
+    // Encoding only works on cards with less than 19 digits
+    if (st.length > 19)	return (false);
+
+    sum =3D 0; mul =3D 1; l =3D st.length;
+    for (i =3D 0; i < l; i++) {
+    	digit =3D st.substring(l-i-1,l-i);
+    	tproduct =3D parseInt(digit ,10)*mul;
+    	if  (tproduct >=3D 10)
+      	    sum +=3D (tproduct % 10) + 1;
+    	else
+      	    sum +=3D tproduct;
+    	if  (mul =3D=3D 1)
+      	    mul++;
+    	else
+            mul--;
+    }
+// Uncomment the following line to help create credit card numbers
+// 1. Create a dummy number with a 0 as the last digit
+// 2. Examine the sum written out
+// 3. Replace the last digit with the difference between the sum and
+//    the next multiple of 10.
+
+//  document.writeln("<BR>Sum      =3D ",sum,"<BR>");
+//  alert("Sum      =3D " + sum);
+
+    if ((sum % 10) =3D=3D 0)
+    	return (true);
+    else
+    	return (false);
+
+} // END FUNCTION isCreditCard()
+
+
+// return true if the string sid is not empty
+function checkSid(sid) {
+	trim(sid);
+    if  ( sid.value =3D=3D '' ) {
+		alert('Please enter your SID.');
+		return false;
+    }
+    return true;
+}
+   =20
+
+
+// return true if string firstName is not empty
+function checkFirstName(firstName) {
+	trim(firstName);
+    if  ( firstName.value =3D=3D '' ) {
+		alert('Please enter your first name.');
+		firstName.focus();
+		return false;
+    }
+    if  (!isValidASCIIString(firstName.value)) {
+		alert(invalidASCIImsg);
+		firstName.focus();
+    	return false;
+    }
+    return true;
+}
+
+function checkMiddleInitial(middleInitial) {
+	trim(middleInitial);
+    if  (!isValidASCIIString(middleInitial.value)) {
+		alert(invalidASCIImsg);
+		middleInitial.focus();
+    	return false;
+    }
+    return true;
+}
+
+
+// return true if string lastName is not empty
+function checkLastName(lastName) {
+	trim(lastName);
+    if  ( lastName.value =3D=3D '' ) {
+		alert('Please enter your last name.');
+		lastName.focus();
+    	return false;
+    }
+    if  ( lastName.value.length < 2 ) {
+		alert('Last name must be at least two characters long.');
+		lastName.focus();
+    	return false;
+    }
+    if  (!isValidASCIIString(lastName.value)) {
+		alert(invalidASCIImsg);
+		lastName.focus();
+    	return false;
+    }
+    return true;
+}
+
+
+// return true if string address1 is not empty
+function checkAddress1(address1) {
+	trim(address1);
+    if  ( address1.value =3D=3D '' ) {
+		alert('Please enter your street address.');
+		address1.focus();
+		return false;
+    }
+    if  (!isValidASCIIString(address1.value)) {
+		alert(invalidASCIImsg);
+		address1.focus();
+    	return false;
+    }
+    return true;
+}
+
+function checkAddress2(address2) {
+	trim(address2);
+    if  (!isValidASCIIString(address2.value)) {
+		alert(invalidASCIImsg);
+		address2.focus();
+    	return false;
+    }
+    return true;
+}
+
+function checkAddress3(address3) {
+	trim(address3);
+    if  (!isValidASCIIString(address3.value)) {
+		alert(invalidASCIImsg);
+		address3.focus();
+    	return false;
+    }
+    return true;
+}
+
+function checkAddress4(address4) {
+	trim(address4);
+    if  (!isValidASCIIString(address4.value)) {
+		alert(invalidASCIImsg);
+		address4.focus();
+    	return false;
+    }
+    return true;
+}
+
+
+// return true if string company is no invalid characters
+function checkCompanyName(company_name) {
+	trim(company_name);
+    if  (!isValidASCIIString(company_name.value)) {
+		alert(invalidASCIImsg);
+		company_name.focus();
+    	return false;
+    }
+    return true;
+}
+
+
+function checkCountryZip(country, zip) {
+	trim(zip);
+	if  ( country =3D=3D "226" ) {
+		var noDelimiters =3D stripCharsInBag(zip, zipDelimiters);
+		if  ( ( noDelimiters =3D=3D '' ) || ( isInteger(noDelimiters) !=3D =
+true ) ) {
+		    alert('Please enter a valid US zip code.');
+		    zip.focus();
+		    return false;
+		}
+		if  ( ( noDelimiters.length !=3D 5 ) && ( noDelimiters.length !=3D 9 ) =
+) {
+		    alert('Please enter a valid US zip code.');
+		    zip.focus();
+		    return false;
+    	}
+    }
+   =20
+	if  ( country =3D=3D "38" ) {
+		var noDelimiters =3D stripCharsInBag(zip, zipDelimiters);
+		if  ( ( noDelimiters =3D=3D '' ) || ( isAlphanumeric(noDelimiters) =
+!=3D true ) ) {
+		    alert('Please enter a valid Canadian postal code.');
+		    zip.focus();
+		    return false;
+		}
+		if ((zip.value.length !=3D 6) && (zip.value.length !=3D 7)) {=09
+		    alert('Please enter a valid Canadian postal code.');
+		    zip.focus();
+		    return false;
+    =09
+		}
+		   =20
+		  =20
+	=09
+    }
+    return true;
+}
+
+// This function added 12/28/99 to handle Netscape's validation scheme.
+function processCountryDropdowns(formObj) {
+	for (var i =3D 0; i < formObj.length; i++) {
+		if (formObj[i].selected) {
+		   break;
+		}
+	}
+	return (formObj[i].value);
+}		  =20
+
+
+//return true if string zip is not empty
+function checkZip(zip) {
+	trim(zip);
+    if  ( zip.value =3D=3D '' ) {
+		alert('Please enter your zip code.');
+		zip.focus();
+		return false;
+    }
+    return true;
+}
+
+
+// return true if string city is not empty
+function checkCity(city) {
+	trim(city);
+    if  ( city.value =3D=3D '' ) {
+		alert('Please enter a city name.');
+		city.focus();
+		return false;
+    }
+    if  (!isValidASCIIString(city.value)) {
+		alert(invalidASCIImsg);
+		city.focus();
+    	return false;
+    }
+    return true;
+}
+
+
+// return true if string state is not empty
+function checkState(state) {
+    if ( state.selectedIndex < 1 ) {
+		alert('Please select your state.');
+		state.focus();
+		return false;
+    }
+    return true;
+}=20
+
+
+
+function checkCountryState(country, state) {
+	if  ( country.value =3D=3D "226" ) {
+		if ( state.selectedIndex < 1 ){
+		    alert('Please select your state.');
+		    state.focus();
+		    return false;
+		}
+    }
+   =20
+	if  ( country.value =3D=3D "38" ) {
+		if ( state.selectedIndex < 1 ){
+		    alert('Please select your province.');
+		    state.focus();
+		    return false;
+    =09
+		}	  =20
+	=09
+    }
+    return true;
+}
+
+
+
+// return true if string province is not empty
+function checkProvince(province) {
+	trim(province);
+    if  ( province.value =3D=3D '' ) {
+		alert('Please enter your province.');
+		province.focus();
+		return false;
+    }
+    return true;
+}
+
+
+//Validates to make sure a country is selected and if there are defined =
+region
+//codes, one must be selected, otherwise a province must be filled in
+function checkCountryStateProvince(country_code, region_code, =
+region_name) {
+    if  ( country_code.value =3D=3D '' ) {
+		alert('Please enter your home country.');
+		country_code.focus();
+		return false;
+    }
+    //If there are defined region codes, validate the selection
+    //assume that the first item in the list is a selection prompt
+    if  (region_code.options.length > 1) {
+		return checkState(region_code);
+    }
+    //Province may not be available for all countries
+    //else{
+	//	return checkProvince(region_name);
+	//}
+    return true;
+}
+
+
+function checkCountryPhone(country, phone) {
+    if  ( country =3D=3D "226" ) {
+		var noDelimiters =3D stripCharsInBag(phone, phoneNumberDelimiters);
+		if  ( noDelimiters.length !=3D 10 ) {
+		    alert('Please enter a valid US phone number (555-555-5555).');
+	    	return false;
+		}
+    }
+    return true;
+}
+
+function checkHomeAreaCode(HomeAreaCode) {
+	trim(HomeAreaCode);
+    if  ( HomeAreaCode.value =3D=3D '' ) {
+		alert('Please enter a Primary Area Code.');
+		HomeAreaCode.focus();
+		return false;
+    }
+    if  (!isValidASCIIString(HomeAreaCode.value)) {
+		alert(invalidASCIImsg);
+		HomeAreaCode.focus();
+    	return false;
+    }
+    return true;
+}
+
+function checkWorkPhoneNumber(WorkPhoneNumber) {
+	trim(WorkPhoneNumber);
+    if  (!isValidASCIIString(WorkPhoneNumber.value)) {
+		alert(invalidASCIImsg);
+		WorkPhoneNumber.focus();
+    	return false;
+    }
+    return true;
+}
+
+function checkWorkPhoneExtension(WorkPhoneExtension) {
+	trim(WorkPhoneExtension);
+    if  (!isValidASCIIString(WorkPhoneExtension.value)) {
+		alert(invalidASCIImsg);
+		WorkPhoneExtension.focus();
+    	return false;
+    }
+    return true;
+}
+
+function checkWorkPhoneCountryCode(WorkPhoneCountryCode) {
+	trim(WorkPhoneCountryCode);
+    if  (!isValidASCIIString(WorkPhoneCountryCode.value)) {
+		alert(invalidASCIImsg);
+		WorkPhoneCountryCode.focus();
+    	return false;
+    }
+    return true;
+}
+
+function checkFaxNumber(FaxNumber) {
+	trim(FaxNumber);
+    if  (!isValidASCIIString(FaxNumber.value)) {
+		alert(invalidASCIImsg);
+		FaxNumber.focus();
+    	return false;
+    }
+    return true;
+}
+
+function checkFaxCountryCode(FaxCountryCode) {
+	trim(FaxCountryCode);
+    if  (!isValidASCIIString(FaxCountryCode.value)) {
+		alert(invalidASCIImsg);
+		FaxCountryCode.focus();
+    	return false;
+    }
+    return true;
+}
+
+// return true if string PhoneNumber is not empty and
+// contains only numbers and proper delimiters
+function checkPhoneNumber(CountryCode, CountryPhoneCode, AreaCode, =
+PhoneNumber, Extension, IsRequired) {
+	trim(CountryPhoneCode);
+    if  ( CountryPhoneCode.value =3D=3D '' ) {
+		if ( IsRequired =3D=3D 1 )  {
+			alert('Please enter a country code.');
+			CountryPhoneCode.focus();
+			return false;
+		}
+		else if  (( AreaCode.value.length > 0 ) || ( PhoneNumber.value.length =
+> 0 )) {			=09
+			alert('All three fields (country code, area code, and phone number) =
+are required.');
+			CountryPhoneCode.focus();
+			return false;
+		}
+	}
+
+	trim(AreaCode);
+	if ((CountryCode.value =3D=3D '226') || (CountryCode.value =3D=3D =
+'38')){
+		if  ( AreaCode.value =3D=3D '' ) {
+			if ( IsRequired =3D=3D 1 )  {
+				alert('Please enter an area code.');
+				AreaCode.focus();
+				return false;
+			}
+		}
+    }
+
+	if ( AreaCode.value !=3D '' ) {
+		var noDelimiters =3D stripCharsInBag(AreaCode, phoneNumberDelimiters);
+		if  ( ( isInteger(noDelimiters) =3D=3D false ) || ( noDelimiters =
+=3D=3D '' ) ) {
+			alert('Please enter a valid area code.');
+			AreaCode.value =3D '';
+			AreaCode.focus();
+			return false;
+		}
+	}
+=09
+	trim(PhoneNumber);
+    if  ( PhoneNumber.value =3D=3D '' ) {
+		if ( IsRequired =3D=3D 1 ) {
+			alert('Please enter a phone number.');
+			PhoneNumber.focus();
+			return false;
+		}
+	=09
+    }
+    if  ( PhoneNumber.value !=3D '' ) {
+		var noDelimiters =3D stripCharsInBag(PhoneNumber, =
+phoneNumberDelimiters);
+		if  ( ( isInteger(noDelimiters) =3D=3D false ) || ( noDelimiters =
+=3D=3D '' ) ) {
+			alert('Please enter a valid phone number.');
+			PhoneNumber.value =3D '';
+			PhoneNumber.focus();
+			return false;
+		}
+    }
+
+	if ((Extension.value !=3D '') && (Extension.value !=3D null )) {
+		var noDelimiters =3D stripCharsInBag(Extension, =
+phoneNumberDelimiters);
+		if  ( ( isInteger(noDelimiters) =3D=3D false ) || ( noDelimiters =
+=3D=3D '' ) ) {
+			alert('Please enter a valid extension.');
+			Extension.value =3D '';
+			Extension.focus();
+			return false;
+		}
+	}
+
+    return true;
+}
+
+
+// return true if string workPhone is not empty and
+// contains only numbers and proper delimiters
+function checkWorkPhone(workPhone) {
+	trim(workPhone);
+    if  ( workPhone.value =3D=3D '' ) {
+		alert('Please enter a work phone number.');
+		workPhone.focus();
+		return false;
+    }
+    var noDelimiters =3D stripCharsInBag(workPhone, =
+phoneNumberDelimiters);
+    if  ( ( isInteger(noDelimiters) =3D=3D false ) || ( noDelimiters =
+=3D=3D '' ) ) {
+		alert('Please enter a valid work phone number.');
+		workPhone.focus();
+		return false;
+    }
+    return true;
+}
+
+
+// return true if string email contains a '@' and a '.'=20
+// and has at least 6 characters since the minimum email
+// address is a@b.cd
+function checkEmail(email)
+{
+	var i;
+    var charCode;
+
+	// compress out all whitespace
+	email.value =3D email.value.replace(/\s/g, "");=20
+	testString =3D email.value;
+=09
+    if  ( testString.length < 6 ||	( testString.indexOf("@",1) < 1 ) ||
+		( testString.indexOf("@",0) =3D=3D 0 ) || ( =
+testString.indexOf("\.",testString.indexOf("@",1)+2) < 1 )  ||
+		( testString.indexOf("@@", 0) > 0 ) ||	( testString.indexOf("\.\.", 0) =
+> 0 ) ||
+		( (testString.length - 1) - testString.lastIndexOf("\.") < 2 )
+		 )
+	{
+		alert('Please enter a valid email address.');
+		email.focus();
+		return false;
+    }
+   =20
+    // added 9/9/04 to prevent doublebyte characters
+    if  =
+(testString.search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]=
++)*\.[A-Za-z0-9]+$/) =3D=3D -1)
+	{
+		alert('Please enter a valid email address.');
+		email.focus();
+		return false;
+	}
+=09
+	return true;
+}
+
+// return true if string is numeric
+
+function checkNumeric(numeric)
+{
+	//alert('This value must be numeric.');
+
+	// compress out all whitespace
+	numeric.value      =3D numeric.value.replace(/\s/g, "");=20
+=09
+    if ( isInteger(numeric.value)){
+		 return true;
+	}
+	if (!isInteger(numeric.value)){
+	alert('This entry must be numeric');
+	numeric.focus();
+	return false;
+    }
+=09
+=09
+}
+
+
+
+// return true if string email contains a '@' and a '.'=20
+// and has at least 6 characters since the minimum email
+// address is a@b.cd
+// this is the as the check above but the popup box has been removed.
+function checkEmailLogin(email)
+{
+	var i;
+    var charCode;
+
+	// compress out all whitespace
+	email.value      =3D email.value.replace(/\s/g, "");=20
+=09
+    if  ( email.value.length < 6 ||
+		( email.value.indexOf("@",1) < 1 ) ||
+		( email.value.indexOf("@",0) =3D=3D 0 ) ||
+		( email.value.indexOf("\.",email.value.indexOf("@",1)+2) < 1 )  ||
+		( email.value.indexOf("@@", 0) > 0 ) ||
+		( email.value.indexOf("\.\.", 0) > 0 ) ||
+		( (email.value.length - 1) - email.value.lastIndexOf("\.") < 2 )
+		 )
+	{
+	return false;
+    }
+	return true;
+}
+
+
+
+// return true if string userid exist and
+// is at least 5 characters long
+function checkUserId(userId) {
+	trim(userId);
+    if  ( userId.value =3D=3D '' ) {
+		alert('Please choose a User ID.');
+		userId.focus();
+		return false;
+    }
+   if  (!isValidASCIIString(userId.value)) {
+		alert(invalidASCIImsg);
+		userId.focus();
+    	return false;
+    }
+    if  ( userId.value.length < 4 ) {
+		alert('User ID must be at least 4 characters long.');
+		userId.focus();
+		return false;
+    }
+    if  ( userId.value.length > 25 ) {
+		alert('Please choose a User ID less between 4 to 25 characters =
+long.');
+		userId.focus();
+		return false;
+    }
+    return true;
+}
+
+
+// return true if string newPassword and confirmPassword
+// exist, are 5 characters or more, and matches
+function checkNewPassword(newPassword, confirmPassword) {
+    if  ( newPassword.value =3D=3D '' ) {
+		alert('Please enter a new password.');
+		newPassword.focus();
+		return false;
+    }
+    if  (!isValidASCIIString(newPassword.value)) {
+		alert(invalidASCIImsg);
+		newPassword.focus();
+    	return false;
+    }
+    if  (( newPassword.value.length < 8 ) || (newPassword.value.length > =
+20 )) {
+		alert('Password must be between 8 and 20 characters long.');
+		newPassword.focus();
+		return false;
+    }
+    if  ( confirmPassword.value =3D=3D '' ) {
+		alert('Please confirm your new password.');
+		confirmPassword.focus();
+		return false;
+    }
+    if  ( newPassword.value !=3D confirmPassword.value ) {
+		alert('Your new password and confirm password entries do not match. =
+Please re-enter.');
+		confirmPassword.focus();
+		return false;
+    }
+    return true;
+}
+
+// return true if string firstName is not empty
+function checkOldPassword(oldPassword) {
+	trim(oldPassword);
+    if  ( oldPassword.value =3D=3D '' ) {
+		alert('Please enter your old password.');
+		oldPassword.focus();
+		return false;
+    }
+    return true;
+}
+
+
+// return false if the string s contains any blank spaces
+function checkForBlanks(s) { =20
+
+var invalid =3D " "; // Invalid character is a space
+
+if (s.value.indexOf(invalid) > -1) {
+alert("Spaces are not allowed in your password.");
+return false;
+}
+
+return true;
+ =20
+}
+
+
+
+
+
+
+// return true if string reminderQuestion is not empty
+function checkReminderQuestion(reminderQuestion) {
+	trim(reminderQuestion);
+    if  ( reminderQuestion.value =3D=3D '' ) {
+		alert('Please enter a reminder question.');
+		reminderQuestion.focus();
+		return false;
+    }
+   if  (!isValidASCIIString(reminderQuestion.value)) {
+		alert(invalidASCIImsg);
+		reminderQuestion.focus();
+    	return false;
+    }
+    return true;
+}
+
+
+// return true if string reminderAnswer is not empty
+function checkReminderAnswer(reminderAnswer) {
+	trim(reminderAnswer);
+    if  ( reminderAnswer.value =3D=3D '' ) {
+		alert('Please enter a reminder answer.');
+		reminderAnswer.focus();
+		return false;
+    }
+    if  (!isValidASCIIString(reminderAnswer.value)) {
+		alert(invalidASCIImsg);
+		reminderAnswer.focus();
+    	return false;
+    }
+    return true;
+}
+
+// return true if string newPasswordAnswer and confirmPasswordAnswer
+// exist, are 5 characters or more, and matches
+function checkNewPasswordAnswer(newPasswordAnswer, =
+confirmPasswordAnswer) {
+    if  ( newPasswordAnswer.value =3D=3D '' ) {
+		alert('Please enter a password answer.');
+		newPasswordAnswer.focus();
+		return false;
+    }
+    if  (!isValidASCIIString(newPasswordAnswer.value)) {
+		alert(invalidASCIImsg);
+		newPasswordAnswer.focus();
+    	return false;
+    }
+    if  ( confirmPasswordAnswer.value =3D=3D '' ) {
+		alert('Please confirm your password answer.');
+		confirmPasswordAnswer.focus();
+		return false;
+    }
+    if  ( newPasswordAnswer.value !=3D confirmPasswordAnswer.value ) {
+		alert('Your password answer and confirm password answer entries do not =
+match. Please re-enter.');
+		confirmPasswordAnswer.focus();
+		return false;
+    }
+    return true;
+}
+
+function checkHeight(height) {
+	trim(height);
+    if ( height.value =3D=3D '' ) {
+		alert('Please enter your height.');
+		return false;
+    }
+    if  ( ( height.value.indexOf("cm") =3D=3D -1 ) &&
+	  ( height.value.indexOf("CM") =3D=3D -1 ) &&
+	  ( height.value.indexOf("Cm") =3D=3D -1 ) &&
+	  ( height.value.indexOf("IN") =3D=3D -1 ) &&
+	  ( height.value.indexOf("In") =3D=3D -1 ) &&
+	  ( height.value.indexOf("in") =3D=3D -1 ) ) {
+		alert('Please enter a valid height. (100cm or 100in)');
+		return false;
+    }
+    var noDelimiters =3D stripCharsInBag(height, heightDelimiters);
+    if  ( ( noDelimiters =3D=3D '' ) || ( isInteger(noDelimiters) =3D=3D =
+false ) ) {
+		alert('Please enter a valid height. (100cm or 100in)');
+		return false;
+    }
+    return true;
+}
+
+
+function checkWeight(weight) {
+	trim(weight);
+    if  ( weight.value =3D=3D '' ) {
+	  	alert('Please enter your weight.');
+		return false;
+    }
+    if  ( ( weight.value.indexOf("kg") =3D=3D -1 ) &&
+	  ( weight.value.indexOf("KG") =3D=3D -1 ) &&
+	  ( weight.value.indexOf("Kg") =3D=3D -1 ) &&
+	  ( weight.value.indexOf("lb") =3D=3D -1 ) &&
+	  ( weight.value.indexOf("Lb") =3D=3D -1 ) &&
+	  ( weight.value.indexOf("LB") =3D=3D -1 ) ) {
+		alert('Please enter a valid weight. (100kg or 100lb)');
+		return false;
+    }
+    var noDelimiters =3D stripCharsInBag(weight, weightDelimiters);
+    if  ( ( noDelimiters =3D=3D '' ) || ( isInteger(noDelimiters) =3D=3D =
+false ) ) {
+		alert('Please enter a valid weight. (100kg or 100lb)');
+		return false;
+    }
+    return true;
+}
+
+
+function checkHairColor(hairColor) {
+	trim(hairColor);
+    if  ( hairColor.value =3D=3D '' ) {
+		alert('Please enter your hair color.');
+		return false;
+    }
+    if  ( isAlphabetic(hairColor.value) !=3D true ) {
+		alert('Please enter a valid hair color.');
+		return false;
+    }
+    return true;
+}
+
+
+function checkEyeColor(eyeColor) {
+	trim(eyeColor);
+    if  ( eyeColor.value =3D=3D '' ) {
+		alert('Please enter your eye color.');
+ 		return false;
+    }
+    if  ( isAlphabetic(eyeColor.value) !=3D true ) {
+		alert('Please enter a valid eye color.');
+		return false;
+    }
+    return true;
+}
+
+
+function checkSex(sex) {
+    if  ( sex.value =3D=3D '' ) {
+		alert('Please enter your sex.');
+		return false;
+    }
+    if  ( ( sex.value !=3D 'M' ) &&
+	  ( sex.value !=3D 'm' ) &&
+	  ( sex.value !=3D 'F' ) &&
+	  ( sex.value !=3D 'f' ) ) {
+		alert('Please enter either M or F.');
+		return false;
+    }
+    return true;
+}
+
+
+function checkDateOfBirth(dateOfBirth) {
+    if  ( isDate(dateOfBirth) =3D=3D false ) {
+		alert('Please enter a valid date of birth.');
+		return false;
+    }
+    return true;
+}
+
+
+function checkBirthPlace(birthPlace) {
+	trim(birthPlace);
+    if  ( birthPlace.value =3D=3D '' ) {
+		alert('Please enter your place of birth.');
+		return false;
+    }
+    if  (!isValidASCIIString(birthPlace.value)) {
+		alert(invalidASCIImsg);
+		birthPlace.focus();
+    	return false;
+    }
+    return true;
+}
+
+
+function checkCitizenship(citizenship) {
+	trim(citizenship);
+    if  ( citizenship.value =3D=3D '' ) {
+		alert('Please enter your citizenship.');
+		return false;
+    }
+   if  (!isValidASCIIString(citizenship.value)) {
+		alert(invalidASCIImsg);
+		citizenship.focus();
+    	return false;
+    }
+    return true;
+}
+
+
+function checkFlightSchool(flightSchool) {
+	trim(flightSchool);
+    if  ( flightSchool.value =3D=3D '' ) {
+		alert('Please enter your flight school ID.');
+		return false;
+    }
+    if  (!isValidASCIIString(flightSchool.value)) {
+		alert(invalidASCIImsg);
+		flightSchool.focus();
+    	return false;
+    }
+    return true;
+}
+
+
+function checkGraduationDate(graduationDate) {
+    if  ( isDate(graduationDate) =3D=3D false ) {
+		alert('Please enter valid graduation date in the format mm/dd/yyyy.');
+		return false;
+    }
+    return true;
+}
+
+
+function checkFaaSurveyCode(faaSurveyCode)
+{
+	trim(faaSurveyCode);
+    if  ( faaSurveyCode.value =3D=3D '' ) {
+		alert('Please indicate how you heard about us.');
+		return false;
+    }
+    if  (!isValidASCIIString(faaSurveyCode.value)) {
+		alert(invalidASCIImsg);
+		faaSurveyCode.focus();
+    	return false;
+    }
+    return true;
+}
+
+// Ensures that a radio button option is selected
+function checkRadioButton(radioButton) {
+	if  ( isRadioChecked(radioButton) )	{=09
+		return true;
+	} else {
+		alert('Please select Yes or No.');
+		return false;
+    }
+}
+
+
+// Checks for required demographics textbox.
+function checkTextField(textField, length) {
+	trim(textField);
+	if  ( textField.value =3D=3D '' ) {=09
+		alert('Please enter the required data.');
+		textField.focus();
+		return false;
+	} else {
+		if  ( textField.value.length > length )	{
+			alert('Your input exceeds the maximum length limit.');
+			textField.focus();
+			return false;
+    	} else {
+			return true;
+		}
+    }
+}
+
+// Checks Email textbox.
+function checkEmailField(emailField, length, required) {
+	// compress out all whitespace
+	emailField.value =3D emailField.value.replace(/\s/g, ""); =20
+=09
+	// Check for required entry
+	if ( required && (emailField.value.length =3D=3D 0) ) {
+		alert('Please enter the required data.');
+		emailField.focus();
+		return false;
+	}
+=09
+	// Is not a valid email field?
+	if ( !(emailField.value.length =3D=3D 0) ) {
+	    if ( emailField.value.length < 7  ||=20
+		   ( emailField.value.indexOf("@",1) < 1 ) ||
+		   ( emailField.value.indexOf("\.",emailField.value.indexOf("@",1)+2) =
+< 1 ) )=20
+		  =20
+		  =20
+		   {
+			alert('You must enter a valid e-mail address.');
+			emailField.focus();
+			return false;
+		}
+	}
+=09
+	// Check the maximum length
+	if  ( emailField.value.length > length ) {
+		alert('Your input exceeds the maximum length limit.');
+		emailField.focus();
+		return false;
+   	}
+
+	// No problems found
+	return true;
+}
+
+function checkCardHolderName(cardHolderName) {
+	trim(cardHolderName);
+    if  ( cardHolderName.value =3D=3D '' ) {
+		alert('Please enter card holder name.');
+		cardHolderName.focus();
+		return false;
+    }
+    if  ( cardHolderName.value.length > 50 ) {
+		alert('Your card holder name has exceeded the maximum length.');
+		cardHolderName.focus();
+		return false;
+    }
+    return true;
+}
+
+
+function checkVoucherNumber(voucherNumber) {
+	trim(voucherNumber);
+    if  ( voucherNumber.value =3D=3D '' ) {
+		alert('Please enter a valid voucher number.');
+		voucherNumber.focus();
+		return false;
+    }
+    return true;
+}
+
+
+function checkCreditCardNumber(creditCardNumber, paymentType, =
+securityNumber) {
+	trim(creditCardNumber);
+	trim(securityNumber);
+    if  ( creditCardNumber.value =3D=3D '' ) {
+		alert('Please enter a valid credit card number.');
+		creditCardNumber.focus();
+		return false;
+    }
+   =20
+   =20
+    if  ( securityNumber.value =3D=3D '' ) {
+		alert('Please enter a valid security code.');
+		securityNumber.focus();
+		return false;
+    }
+
+    if  ( isInteger(securityNumber.value) =3D=3D false ) {
+		alert('Please enter a valid numeric security code.');
+		securityNumber.focus();
+		return false;
+    }
+   =20
+   =20
+	if  ( creditCardNumber.value.length > 19 ) {
+		alert('Please enter a valid credit card number.');
+		creditCardNumber.focus();
+		return false;
+    }
+   =20
+	if  ( paymentType.value =3D=3D "VI" ) {
+		//visa
+		if  ( isVisa(creditCardNumber.value) =3D=3D false ) {
+		    alert('Please enter a valid Visa card number.');
+			creditCardNumber.focus();
+	    	return false;
+		}
+	=09
+		if (securityNumber.value.length !=3D 3) {
+			alert('Please enter a valid security code.');
+			securityNumber.focus();
+	    	return false;
+	    }
+	=09
+	=09
+	=09
+    } else if ( paymentType.value =3D=3D "MC" ) {
+		//MASTERCARD
+		if  ( isMasterCard(creditCardNumber.value) =3D=3D false ) {
+		    alert('Please enter a valid MasterCard number.');
+			creditCardNumber.focus();
+		    return false;
+		}
+		   =20
+		    if (securityNumber.value.length !=3D 3) {
+			alert('Please enter a valid security code.');
+			securityNumber.focus();
+	    	return false;
+	    }
+		   =20
+		   =20
+	=09
+    } else if ( paymentType.value =3D=3D "AX" ) {
+    //Amex
+		if  ( isAmericanExpress(creditCardNumber.value) =3D=3D false ) {
+		    alert('Please enter a valid American Express card number.');
+			creditCardNumber.focus();
+	    	return false;
+	 	}
+	 =09
+	 	if (securityNumber.value.length !=3D 4) {
+			alert('Please enter a valid security code.');
+			securityNumber.focus();
+	    	return false;
+	    }
+    }
+
+    return true;   =20
+}
+
+function checkPreferredDate(preferredMonth, preferredDay, preferredYear) =
+{
+    if  ( preferredMonth.selectedIndex =3D=3D 0 ) {
+		alert('Please select your preferred month.');
+		preferredMonth.focus();
+		return false;
+    }
+   =20
+	if  ( preferredDay.selectedIndex =3D=3D 0 ) {
+		alert('Please select your preferred day.');
+		preferredDay.focus();
+		return false;
+    }
+   =20
+	if  ( preferredYear.selectedIndex =3D=3D 0 ) {
+		alert('Please select your preferred year.');
+		preferredYear.focus();
+		return false;
+    }
+=09
+    if  ( isFutureDate(preferredDay, preferredMonth, preferredYear) =
+=3D=3D false ) {
+		alert('Exams must be scheduled at least 48 hours in advance. Please =
+select a different Preferred Date.');
+		preferredMonth.focus();
+		return false;
+    }
+
+    return true;
+}
+
+function checkPreferredTime(preferredTime) {
+    if  ( preferredTime.selectedIndex =3D=3D 0 ) {
+		alert('Please select your preferred time.');
+		preferredTime.focus();
+		return false;
+    }
+    return true;
+}
+
+function checkPreferredAmPm(preferredAmPm) {
+    if  ( preferredAmPm.selectedIndex =3D=3D 0 ) {
+		alert('Please select if you prefer Am or Pm.');
+		preferredAmPm.focus();
+		return false;
+    }
+    return true;
+}
+
+
+function checkFirstAltDate(firstAltMonth, firstAltDay, firstAltYear) {
+    if  ( firstAltMonth.selectedIndex =3D=3D 0 ) {
+		alert('Please select your first alternate month.');
+		firstAltMonth.focus();
+		return false;
+    }
+   =20
+	if  ( firstAltDay.selectedIndex =3D=3D 0 ) {
+		alert('Please select your first alternate day.');
+		firstAltDay.focus();
+		return false;
+    }
+
+    if  ( firstAltYear.selectedIndex =3D=3D 0 ) {
+		alert('Please select your first alternate year.');
+		firstAltYear.focus();
+		return false;
+    }
+   =20
+	if  ( isFutureDate(firstAltDay, firstAltMonth, firstAltYear) =3D=3D =
+false ) {
+		alert('Exams must be scheduled at least 48 hours in advance. Please =
+select a different Alternate Date');
+		firstAltMonth.focus();
+		return false;
+    }
+    return true;
+}
+
+
+function checkFirstAltTime(firstAltTime) {
+    if  ( firstAltTime.selectedIndex =3D=3D 0 ) {
+		alert('Please select your first alternate time.');
+		firstAltTime.focus();
+		return false;
+    }
+    return true;
+}
+
+function checkFirstAltAmPm(firstAltAmPm) {
+    if  ( firstAltAmPm.selectedIndex =3D=3D 0 ) {
+		alert('Please select if you first alternate Am or Pm.');
+		firstAltAmPm.focus();
+		return false;
+    }
+    return true;
+}
+
+function checkSecondAltDate(secondAltMonth, secondAltDay, secondAltYear) =
+{
+    if  ( secondAltMonth.selectedIndex =3D=3D 0 ) {
+		alert('Please select your second alternate month.');
+		secondAltMonth.focus();
+		return false;
+    }
+    if  ( secondAltDay.selectedIndex =3D=3D 0 ) {
+		alert('Please select your second alternate day.');
+		secondAltDay.focus();
+		return false;
+    }
+    if  ( secondAltYear.selectedIndex =3D=3D 0 ) {
+		alert('Please select your second alternate year.');
+		secondAltYear.focus();
+		return false;
+    }
+    if  ( isFutureDate(secondAltDay, secondAltMonth, secondAltYear) =
+=3D=3D false ) {
+		alert('Exams must be scheduled at least 48 hours in advance. Please =
+select a different Second Alternate Date.');
+		secondAltMonth.focus();
+		return false;
+    }
+    return true;
+}
+
+function checkSecondAltTime(secondAltTime) {
+    if  ( secondAltTime.selectedIndex =3D=3D 0 ) {
+		alert('Please select your second alternate time.');
+		secondAltTime.focus();
+		return false;
+    }
+    return true;
+}
+
+
+function checkSecondAltAmPm(secondAltAmPm) {
+    if  ( secondAltAmPm.selectedIndex =3D=3D 0 ) {
+		alert('Please select if you second alternate Am or Pm.');
+		secondAltAmPm.focus();
+		return false;
+    }
+    return true;
+}
+
+function checkUserNameLogin(formObj) {
+	var blnValid =3D "true"
+=09
+	if (formObj.old_user_name.value =3D=3D "") {
+		blnValid =3D "false";
+		alert('Please enter your user name.');
+		formObj.old_user_name.focus();
+	}
+=09
+	if (blnValid=3D=3D"true") {
+		if (formObj.user_security_password.value =3D=3D "") {
+			blnValid =3D "false";
+			alert('Please enter your password.');
+			formObj.user_security_password.focus();
+		}
+	}
+
+	if (blnValid =3D=3D "false") {
+		return false;
+	} else {
+		return true;
+	}
+}
+
+function checkPasswordReminder(formObj)	{
+	var blnValid =3D "true"
+	var blnCheckedEmail =3D "false"
+			=20
+	if (formObj.email_address.value !=3D  "" &&  =
+formObj.old_user_name.value !=3D "" )=20
+	{
+		alert("Please enter an email address or a user name but not both.");
+		blnValid =3D "false"
+	}
+		=09
+	if (formObj.email_address.value =3D=3D  "" &&  =
+formObj.old_user_name.value =3D=3D "" )=20
+	{
+		blnValid =3D "false"
+		alert("Please enter an email address or a user name.");
+	}
+		=09
+	if (blnValid =3D=3D "true")
+	{
+		if (formObj.email_address.value !=3D  "")
+		{=09
+		  blnCheckedEmail =3D "true"
+		  if  (checkEmail(formObj.email_address))
+		  {
+		    blnValid =3D "true"	    =09
+		  } else {
+		    blnValid =3D "false"
+		  }
+		}
+	}
+	     	=09
+	if (blnCheckedEmail =3D=3D "false")
+	{
+		if (blnValid =3D=3D "true")
+		{
+			if (formObj.old_user_name.value !=3D "")
+			{
+				blnValid =3D "true"=09
+			}
+		 }
+	}
+=09
+	if (blnValid =3D=3D "true")=20
+	{
+		return true
+	} else {
+		return false
+	}
+=09
+}
+
+function checkTestingIDLength(testing_id){
+
+	if (testing_id.value.length > 9)
+	{
+	alert('The Testing ID must be 9 digits or less.');
+		testing_id.focus();
+		return false;
+    }
+    if  (!isValidASCIIString(testing_id.value)) {
+		alert(invalidASCIImsg);
+		testing_id.focus();
+    	return false;
+    }
+    return true;
+}
+
+function isPrivacyPolicyChecked(thisRadio) {
+    for  ( var i =3D 0; i < thisRadio.length; i++ ) {
+		if  ( thisRadio[i].checked =3D=3D true ) {
+		    if (thisRadio[i].value =3D=3D 'yes') {=09
+				return true;
+			} else {
+			alert("You must agree with the Privacy Policy in order to continue")
+			return false;
+			}
+		}
+
+    }
+    alert("You must agree with the Privacy Policy in order to continue")
+    return false;
+   =20
+}
+
+
+
+
+/*
+$History: FormValidation.js $  File history, VSS format=20
+ *=20
+ * *****************  Version 1  *****************
+ * User: Rjones       Date: 2/23/01    Time: 10:08a
+ * Created in $/Release/2.4/2test/js
+ *=20
+ * *****************  Version 1  *****************
+ * User: Tkrispin     Date: 1/30/01    Time: 11:26a
+ * Created in $/Release/2.3/2Test/js
+ *=20
+ * *****************  Version 14  *****************
+ * User: Rjones       Date: 12/07/00   Time: 2:54p
+ * Updated in $/2Test/twotest/js
+ * moved all trim() calls to js/FormValidation.js
+ *=20
+ * *****************  Version 12  *****************
+ * User: Rstrass      Date: 9/20/00    Time: 9:56a
+ * Updated in $/2Test/twotest/js
+ * improved isDate function to check data validity.
+ *=20
+ * *****************  Version 10  *****************
+ * User: Rjones       Date: 9/12/00    Time: 1:28p
+ * Updated in $/2Test/twotest/js
+ * removed debug alerts
+ *=20
+ * *****************  Version 9  *****************
+ * User: Rjones       Date: 9/12/00    Time: 1:22p
+ * Updated in $/2Test/twotest/js
+ * added trim(obj) function
+ *=20
+ * *****************  Version 7  *****************
+ * User: Dgray        Date: 8/21/00    Time: 1:45p
+ * Updated in $/2Test/twotest/js
+ * Enhanced the email editing rules.
+ *=20
+ * *****************  Version 6  *****************
+ * User: Dgray        Date: 8/06/00    Time: 3:54p
+ * Updated in $/2Test/twotest/js
+ * Correct credit card number error message.
+ *=20
+ * *****************  Version 3  *****************
+ * User: Dgray        Date: 7/29/00    Time: 1:44a
+ * Updated in $/2Test/twotest/js
+ * Update edits for text fields, radio buttons, Email addresses.
+ *=20
+ * *****************  Version 2  *****************
+ * User: Dgray        Date: 6/29/00    Time: 9:39a
+ * Updated in $/2Test/twotest/js
+ * Remove Sidda's alterations to calendar validations.
+ *=20
+ * *****************  Version 5  *****************
+ * User: Aolumide     Date: 5/04/00    Time: 6:26p
+ * Updated in $/2Test/twotest/js
+ * Updated mods to jscript for customdemographics
+ *=20
+ * *****************  Version 4  *****************
+ * User: Aolumide     Date: 5/03/00    Time: 5:44p
+ * Updated in $/2Test/twotest/js
+ * Updated checkTextField function to check user entries on
+ * Customdemographics for whitespace.
+ *=20
+ * *****************  Version 13  *****************
+ * User: Ktam         Date: 2/14/00    Time: 3:44p
+ * Updated in $/2Test Release2/twotest/js
+ * added max length validation
+ *=20
+ * *****************  Version 12  *****************
+ * User: Ktam         Date: 1/24/00    Time: 1:30p
+ * Updated in $/2Test Release2/twotest/js
+ * added isAlphanumeric function
+ *=20
+ * *****************  Version 11  *****************
+ * User: Ktam         Date: 1/21/00    Time: 1:39p
+ * Updated in $/2Test Release2/twotest/js
+ * changed minimum userid and password length from 5 to 4
+ *=20
+ * *****************  Version 10  *****************
+ * User: Dranck       Date: 1/18/00    Time: 2:11p
+ * Updated in $/2Test Release2/twotest/js
+ *=20
+ * *****************  Version 9  *****************
+ * User: Dranck       Date: 1/18/00    Time: 6:25a
+ * Updated in $/2Test Release2/twotest/js
+ * Changes to validation, date math, added object.focus();
+ *=20
+ * *****************  Version 8  *****************
+ * User: Ktam         Date: 1/12/00    Time: 1:59p
+ * Updated in $/2Test Release2/twotest/js
+ * fixed alerts to match form field names
+ *=20
+ * *****************  Version 7  *****************
+ * User: Aolumide     Date: 12/28/99   Time: 12:44p
+ * Updated in $/2Test Release2/twotest/js
+ * =20
+=20
+*/
+
+------=_NextPart_000_0000_01CCA96A.9A16E140--

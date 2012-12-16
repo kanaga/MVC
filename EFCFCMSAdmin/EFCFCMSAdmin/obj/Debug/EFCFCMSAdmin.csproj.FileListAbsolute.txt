@@ -1,0 +1,7 @@
+C:\Sample\EFCFCMSAdmin\EFCFCMSAdmin\bin\EFCFCMSAdmin.dll
+C:\Sample\EFCFCMSAdmin\EFCFCMSAdmin\bin\EFCFCMSAdmin.pdb
+C:\Sample\EFCFCMSAdmin\EFCFCMSAdmin\bin\Telerik.Web.Mvc.dll
+C:\Sample\EFCFCMSAdmin\EFCFCMSAdmin\bin\Telerik.Web.Mvc.xml
+C:\Sample\EFCFCMSAdmin\EFCFCMSAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Sample\EFCFCMSAdmin\EFCFCMSAdmin\obj\Debug\EFCFCMSAdmin.dll
+C:\Sample\EFCFCMSAdmin\EFCFCMSAdmin\obj\Debug\EFCFCMSAdmin.pdb

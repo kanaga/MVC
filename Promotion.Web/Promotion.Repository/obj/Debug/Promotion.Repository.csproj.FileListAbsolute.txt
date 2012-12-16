@@ -1,0 +1,10 @@
+C:\MVCProject\Promotion.Web\Promotion.Repository\bin\Debug\Promotion.Repository.dll
+C:\MVCProject\Promotion.Web\Promotion.Repository\bin\Debug\Promotion.Repository.pdb
+C:\MVCProject\Promotion.Web\Promotion.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\MVCProject\Promotion.Web\Promotion.Repository\obj\Debug\Promotion.Repository.dll
+C:\MVCProject\Promotion.Web\Promotion.Repository\obj\Debug\Promotion.Repository.pdb
+C:\MVCProject\Promotion.Web\Promotion.Repository\bin\Debug\Promotion.Repository.dll.config
+C:\MVCProject\Promotion.Web\Promotion.Repository\bin\Debug\EntityFramework.dll
+C:\MVCProject\Promotion.Web\Promotion.Repository\bin\Debug\Promotion.Model.dll
+C:\MVCProject\Promotion.Web\Promotion.Repository\bin\Debug\Promotion.Model.pdb
+C:\MVCProject\Promotion.Web\Promotion.Repository\bin\Debug\EntityFramework.xml

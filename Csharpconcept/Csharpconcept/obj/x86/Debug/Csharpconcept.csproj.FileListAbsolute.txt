@@ -1,0 +1,5 @@
+C:\MVCProject\Csharpconcept\Csharpconcept\bin\Debug\Csharpconcept.exe
+C:\MVCProject\Csharpconcept\Csharpconcept\bin\Debug\Csharpconcept.pdb
+C:\MVCProject\Csharpconcept\Csharpconcept\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MVCProject\Csharpconcept\Csharpconcept\obj\x86\Debug\Csharpconcept.exe
+C:\MVCProject\Csharpconcept\Csharpconcept\obj\x86\Debug\Csharpconcept.pdb

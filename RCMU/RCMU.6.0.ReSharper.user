@@ -1,0 +1,283 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/f:Web.config" caret="533" fromTop="11" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/f:Global.asax.cs" caret="1292" fromTop="15" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Course/f:Details.cshtml" caret="0" fromTop="0" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Course/f:Edit.cshtml" caret="0" fromTop="0" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Course/f:Delete.cshtml" caret="0" fromTop="0" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:DBContext/f:SchoolInitializer.cs" caret="6416" fromTop="11" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:DBContext/f:SchoolContext.cs" caret="1269" fromTop="25" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Department.cs" caret="841" fromTop="23" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:OfficeAssignment.cs" caret="389" fromTop="14" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Student/f:Index.cshtml" caret="308" fromTop="18" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Controllers/f:StudentController.cs" caret="376" fromTop="15" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Student/f:Delete.cshtml" caret="468" fromTop="19" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Student/f:Create.cshtml" caret="969" fromTop="17" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Student/f:Details.cshtml" caret="1173" fromTop="28" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Student/f:Edit.cshtml" caret="1018" fromTop="19" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Enrollment.cs" caret="439" fromTop="13" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Student.cs" caret="827" fromTop="22" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Delete.cshtml" caret="0" fromTop="0" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Edit.cshtml" caret="0" fromTop="0" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Details.cshtml" caret="0" fromTop="0" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Course/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Models/f:IndexInstructorData.cs" caret="429" fromTop="34" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Create.cshtml" caret="0" fromTop="0" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Instructor.cs" caret="196" fromTop="9" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Course.cs" caret="740" fromTop="19" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Controllers/f:InstructorController.cs" caret="870" fromTop="11" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Content/f:Site.css" caret="5994" fromTop="13" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="609" fromTop="8" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Controllers/f:CourseController.cs" caret="561" fromTop="0" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Course/f:Create.cshtml" caret="418" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:DBContext/f:SchoolInitializer.cs" caret="6416" fromTop="28" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Course.cs" caret="341" fromTop="12" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Controllers/f:CourseController.cs" caret="0" fromTop="0" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Course/f:Create.cshtml" caret="513" fromTop="17" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Models/f:IndexInstructorData.cs" caret="393" fromTop="16" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Models/f:IndexInstructorData.cs" caret="401" fromTop="20" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Models/f:IndexInstructorData.cs" caret="4" fromTop="0" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Models/f:IndexInstructorData.cs" caret="429" fromTop="15" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Controllers/f:InstructorController.cs" caret="1564" fromTop="28" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="1233" fromTop="12" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Controllers/f:InstructorController.cs" caret="441" fromTop="7" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="38" fromTop="0" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="1512" fromTop="16" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="1004" fromTop="18" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="420" fromTop="23" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="187" fromTop="11" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="1994" fromTop="24" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="2297" fromTop="19" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="745" fromTop="12" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Content/f:Site.css" caret="5994" fromTop="13" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="3046" fromTop="25" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="2960" fromTop="27" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="2915" fromTop="25" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="2839" fromTop="14" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="2508" fromTop="10" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Controllers/f:InstructorController.cs" caret="1318" fromTop="18" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Controllers/f:InstructorController.cs" caret="1512" fromTop="23" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Controllers/f:InstructorController.cs" caret="941" fromTop="11" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="2152" fromTop="18" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Instructor/f:Index.cshtml" caret="609" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:RCMU_Domain.Entities.Student">
+      <Item value="FirstMidName" priority="276" />
+      <Item value="EnrollmentDate" priority="53" />
+      <Item value="LastName" priority="81" />
+      <Item value="FullName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Student`0" priority="63" />
+      <Item value="try" priority="63" />
+      <Item value="if" priority="283" />
+      <Item value="ModelState" priority="63" />
+      <Item value="db" priority="95" />
+      <Item value="student" priority="31" />
+      <Item value="return" priority="127" />
+      <Item value="View`0" priority="63" />
+      <Item value="DataException`0" priority="63" />
+      <Item value="HttpPost" priority="31" />
+      <Item value="string" priority="287" />
+      <Item value="ViewBag" priority="287" />
+      <Item value="String`0" priority="63" />
+      <Item value="sortorder" priority="95" />
+      <Item value="var" priority="127" />
+      <Item value="XmlReadMode`0" priority="31" />
+      <Item value="PartialView`0" priority="63" />
+      <Item value="P" priority="31" />
+      <Item value="from" priority="31" />
+      <Item value="students" priority="350" />
+      <Item value="switch" priority="31" />
+      <Item value="case" priority="95" />
+      <Item value="p" priority="384" />
+      <Item value="break" priority="127" />
+      <Item value="default" priority="31" />
+      <Item value="Html" priority="209" />
+      <Item value="new" priority="191" />
+      <Item value="using" priority="60" />
+      <Item value="Searchstring" priority="63" />
+      <Item value="System" priority="30" />
+      <Item value="Data" priority="26" />
+      <Item value="ComponentModel" priority="26" />
+      <Item value="DataAnnotations" priority="26" />
+      <Item value="DisplayFormat" priority="95" />
+      <Item value="DataFormatString" priority="127" />
+      <Item value="ApplyFormatInEditMode" priority="127" />
+      <Item value="true" priority="95" />
+      <Item value="MaxLength" priority="159" />
+      <Item value="ErrorMessage" priority="255" />
+      <Item value="Column" priority="63" />
+      <Item value="Required" priority="159" />
+      <Item value="prop" priority="479" />
+      <Item value="DateTime`0" priority="95" />
+      <Item value="public" priority="287" />
+      <Item value="FirstMidName" priority="63" />
+      <Item value="LastName" priority="63" />
+      <Item value="ICollection" priority="95" />
+      <Item value="Course`0" priority="63" />
+      <Item value="virtual" priority="191" />
+      <Item value="Instructor`0" priority="159" />
+      <Item value="Display" priority="127" />
+      <Item value="UriHostNameType`0" priority="31" />
+      <Item value="Name" priority="159" />
+      <Item value="DatabaseGenerated" priority="31" />
+      <Item value="DatabaseGeneratedOption`0" priority="31" />
+      <Item value="is" priority="31" />
+      <Item value="int" priority="63" />
+      <Item value="Department`0" priority="31" />
+      <Item value="decimal" priority="31" />
+      <Item value="NetPipeStyleUriParser`0" priority="31" />
+      <Item value="ColumnAttribute`0" priority="31" />
+      <Item value="TypeName" priority="31" />
+      <Item value="Courses" priority="32" />
+      <Item value="ConvertEmptyStringToNull" priority="31" />
+      <Item value="NullDisplayText" priority="31" />
+      <Item value="IEnumerable" priority="95" />
+      <Item value="Enrollment`0" priority="31" />
+      <Item value="ActionResult`0" priority="31" />
+      <Item value="IndexInstructorData" priority="28" />
+      <Item value="Model" priority="288" />
+      <Item value="Int32`0" priority="63" />
+      <Item value="C" priority="63" />
+      <Item value="id" priority="63" />
+      <Item value="null" priority="31" />
+      <Item value="i" priority="63" />
+      <Item value="courseId" priority="95" />
+      <Item value="item" priority="404" />
+      <Item value="RCMU" priority="31" />
+      <Item value="Models" priority="26" />
+      <Item value="IndexInstructorData`0" priority="26" />
+      <Item value="foreach" priority="59" />
+      <Item value="in" priority="63" />
+      <Item value="selectedrow" priority="123" />
+      <Item value="IndexOutOfRangeException`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelStateDictionary">
+      <Item value="IsValid" priority="26" />
+      <Item value="AddModelError`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RCMU_Domain.DBContext.SchoolContext">
+      <Item value="Students" priority="53" />
+      <Item value="SaveChanges`0" priority="26" />
+      <Item value="Instructors" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="Add`0" priority="27" />
+      <Item value="Include`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="53" />
+      <Item value="Format`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="OrderByDescending`2" priority="53" />
+      <Item value="OrderBy`2" priority="53" />
+      <Item value="Where`1" priority="26" />
+      <Item value="Include`1" priority="26" />
+      <Item value="Select`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="Html" priority="55" />
+      <Item value="using" priority="7" />
+      <Item value="if" priority="17" />
+      <Item value="item" priority="47" />
+      <Item value="foreach" priority="15" />
+      <Item value="selectedrow" priority="15" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="ActionLink`0" priority="134" />
+      <Item value="BeginForm`0" priority="26" />
+      <Item value="TextBox`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="p" priority="5" />
+      <Item value="input" priority="5" />
+      <Item value="type" priority="5" />
+      <Item value="button" priority="5" />
+      <Item value="value" priority="5" />
+      <Item value="class" priority="18" />
+      <Item value="ui-progressbar" priority="17" />
+      <Item value="valign" priority="6" />
+      <Item value="top" priority="5" />
+      <Item value="th" priority="47" />
+      <Item value="tr" priority="17" />
+      <Item value="td" priority="41" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToLower`0" priority="134" />
+      <Item value="Contains`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.DataAnnotations.DatabaseGeneratedOption">
+      <Item value="None" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RCMU_Domain.Entities.Instructor">
+      <Item value="Course" priority="26" />
+      <Item value="Courses" priority="134" />
+      <Item value="LastName" priority="27" />
+      <Item value="InstructorID" priority="80" />
+      <Item value="OfficeAssignment" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RCMU_Domain.Entities.Department">
+      <Item value="Adminstrator" priority="26" />
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RCMU.Models.IndexInstructorData">
+      <Item value="Instructors" priority="107" />
+      <Item value="Courses" priority="108" />
+      <Item value="Enrollments" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RCMU_Domain.Entities.Course">
+      <Item value="Department" priority="53" />
+      <Item value="CourseID" priority="107" />
+      <Item value="Enrollments" priority="53" />
+      <Item value="Title" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="OrderBy`2" priority="27" />
+      <Item value="Where`1" priority="53" />
+      <Item value="Single`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RCMU_Domain.Entities.OfficeAssignment">
+      <Item value="Location" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="cadetblue" priority="5" />
+      <Item value="red" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RCMU_Domain.Entities.Enrollment">
+      <Item value="EnrollmentID" priority="53" />
+      <Item value="Student" priority="26" />
+      <Item value="Grade" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="InstructorID" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

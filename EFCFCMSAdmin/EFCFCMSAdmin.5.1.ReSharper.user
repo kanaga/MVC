@@ -1,0 +1,151 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Controllers/f:HomeController.cs" caret="336" fromTop="14" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:Repository/f:SchedulerRepository.cs" caret="222" fromTop="8" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Content/f:Site.css" caret="315" fromTop="7" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Shared/f:_Layout.cshtml" caret="736" fromTop="19" />
+      <File id="140B14FC-7C88-4AC8-95B2-B4F7C84617B6/f:UnitTest1.cs" caret="0" fromTop="0" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Edit.cshtml" caret="546" fromTop="19" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/f:_ViewStart.cshtml" caret="8" fromTop="1" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:Repository/f:BlockRepository.cs" caret="465" fromTop="0" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:Repository/f:IRepository.cs" caret="0" fromTop="0" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Controllers/f:NinjectControllerFactory.cs" caret="295" fromTop="13" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/f:packages.config" caret="0" fromTop="0" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Models/f:BlockViewModel.cs" caret="247" fromTop="12" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:Entities/f:Block.cs" caret="523" fromTop="16" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:Entities/f:Scheduler.cs" caret="493" fromTop="16" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Controllers/f:BlockController.cs" caret="1228" fromTop="25" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Index.cshtml" caret="144" fromTop="8" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:MapEntities/f:BlockMap.cs" caret="605" fromTop="21" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:MapEntities/f:SchedulerMap.cs" caret="513" fromTop="16" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/f:Web.config" caret="5647" fromTop="20" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/f:Global.asax.cs" caret="1357" fromTop="22" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:DBContext/f:CMSContext.cs" caret="244" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Controllers/f:BlockController.cs" caret="309" fromTop="9" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Index.cshtml" caret="754" fromTop="19" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Index.cshtml" caret="471" fromTop="16" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:Repository/f:IRepository.cs" caret="209" fromTop="10" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:Repository/f:SchedulerRepository.cs" caret="222" fromTop="8" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:Repository/f:BlockRepository.cs" caret="588" fromTop="22" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Edit.cshtml" caret="2184" fromTop="32" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Content/f:Site.css" caret="315" fromTop="7" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Shared/f:_Layout.cshtml" caret="474" fromTop="12" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Shared/f:_Layout.cshtml" caret="372" fromTop="6" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Shared/f:_Layout.cshtml" caret="1024" fromTop="27" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Edit.cshtml" caret="1781" fromTop="13" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Edit.cshtml" caret="2038" fromTop="9" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Shared/f:_Layout.cshtml" caret="736" fromTop="19" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Controllers/f:BlockController.cs" caret="2002" fromTop="25" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Controllers/f:BlockController.cs" caret="194" fromTop="7" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Controllers/f:BlockController.cs" caret="2000" fromTop="18" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Edit.cshtml" caret="2428" fromTop="22" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Index.cshtml" caret="838" fromTop="19" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Index.cshtml" caret="308" fromTop="11" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Index.cshtml" caret="804" fromTop="8" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/d:Views/d:Block/f:Index.cshtml" caret="294" fromTop="11" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/f:Web.config" caret="5647" fromTop="7" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/f:Global.asax.cs" caret="70" fromTop="3" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/f:Global.asax.cs" caret="227" fromTop="9" />
+      <File id="0B30F6F4-9E02-46C4-B839-DF0B9A715300/f:Global.asax.cs" caret="1357" fromTop="22" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:DBContext/f:CMSContext.cs" caret="681" fromTop="20" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:DBContext/f:CMSContext.cs" caret="161" fromTop="5" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:DBContext/f:CMSContext.cs" caret="586" fromTop="19" />
+      <File id="60537632-321F-4B99-A7FF-4C100FFD60CF/d:DBContext/f:CMSContext.cs" caret="454" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="13" />
+      <Item value="int" priority="4" />
+      <Item value="prop" priority="10" />
+      <Item value="string" priority="5" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="virtual" priority="0" />
+      <Item value="ICollection" priority="0" />
+      <Item value="Block`0" priority="4" />
+      <Item value="IRepository" priority="2" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="System" priority="2" />
+      <Item value="Data" priority="2" />
+      <Item value="Entity" priority="2" />
+      <Item value="ModelConfiguration" priority="1" />
+      <Item value="EntityTypeConfiguration" priority="1" />
+      <Item value="using" priority="7" />
+      <Item value="Scheduler`0" priority="3" />
+      <Item value="DBContext" priority="1" />
+      <Item value="DbSet" priority="0" />
+      <Item value="SchedulerMap`0" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="new" priority="2" />
+      <Item value="CMSContext" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="_context" priority="4" />
+      <Item value="itemToBeSaved" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="CMSContext`0" priority="0" />
+      <Item value="DefaultControllerFactory`0" priority="0" />
+      <Item value="Ninject" priority="1" />
+      <Item value="Modules" priority="0" />
+      <Item value="internal" priority="0" />
+      <Item value="NinjectModule`0" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="model" priority="0" />
+      <Item value="_blockrepository" priority="0" />
+      <Item value="x" priority="1" />
+      <Item value="EFCFCMSDomain" priority="3" />
+      <Item value="MapEntities" priority="1" />
+      <Item value="Repository" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EFCFCMSDomain.Block">
+      <Item value="BlockId" priority="0" />
+      <Item value="CompanyId" priority="0" />
+      <Item value="DivisionId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EFCFCMSDomain.Scheduler">
+      <Item value="SchedulerId" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EFCFCMSDomain.DBContext.CMSContext">
+      <Item value="Blocks" priority="1" />
+      <Item value="SaveChanges`0" priority="2" />
+      <Item value="Set`0" priority="0" />
+      <Item value="Scheduers" priority="0" />
+      <Item value="Schedulers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="AsQueryable`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CMSAdmin.Models.BlockViewModel">
+      <Item value="Blocks" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EFCFCMSDomain.IRepository`1">
+      <Item value="All" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Where`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

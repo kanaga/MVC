@@ -1,0 +1,5 @@
+C:\MVCProject\ConsoleApplication1Day1\ConsoleApplication1Day1\bin\Debug\ConsoleApplication1Day1.exe
+C:\MVCProject\ConsoleApplication1Day1\ConsoleApplication1Day1\bin\Debug\ConsoleApplication1Day1.pdb
+C:\MVCProject\ConsoleApplication1Day1\ConsoleApplication1Day1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MVCProject\ConsoleApplication1Day1\ConsoleApplication1Day1\obj\x86\Debug\ConsoleApplication1Day1.exe
+C:\MVCProject\ConsoleApplication1Day1\ConsoleApplication1Day1\obj\x86\Debug\ConsoleApplication1Day1.pdb

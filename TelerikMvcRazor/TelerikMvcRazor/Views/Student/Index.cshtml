@@ -1,0 +1,61 @@
+﻿@model IEnumerable<RCMU_Domain.Entities.Student>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using(@Html.BeginForm())
+{
+    <p>Begin Search:
+    @Html.TextBox("Searchstring")
+    <input type="submit" value="Search"/>
+    </p>
+
+}
+<table>
+   
+    @(Html.Telerik().Grid(Model)
+    .Name("Grid")
+             .DataKeys(keys => keys.Add(c => c.StudentID))
+     .DataBinding(dataBinding => dataBinding.Server()
+              .Select("Edit", "Student")
+                .Insert("Insert", "Student")
+                        .Update("Save", "Student")
+                        .Delete("Delete", "Student"))
+    .Columns(columns=>
+      {
+          columns.Bound(c => c.LastName);
+          columns.Bound(c => c.FirstMidName);
+          columns.Bound(c => c.EnrollmentDate);
+          columns.Command(commands => { commands.Edit(); commands.Delete(); }).Width(200);
+         
+      })
+       .Pageable()
+       .Sortable()
+ )  
+@*@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstMidName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EnrollmentDate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.StudentID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.StudentID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.StudentID })
+        </td>
+    </tr>
+}*@
+
+</table>

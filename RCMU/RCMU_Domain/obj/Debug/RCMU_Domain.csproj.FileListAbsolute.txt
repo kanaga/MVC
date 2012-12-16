@@ -1,0 +1,15 @@
+C:\Sample\RCMU\RCMU_Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Sample\RCMU\RCMU_Domain\bin\Debug\RCMU_Domain.dll
+C:\Sample\RCMU\RCMU_Domain\bin\Debug\RCMU_Domain.pdb
+C:\Sample\RCMU\RCMU_Domain\bin\Debug\EntityFramework.dll
+C:\Sample\RCMU\RCMU_Domain\bin\Debug\EntityFramework.xml
+C:\Sample\RCMU\RCMU_Domain\obj\Debug\RCMU_Domain.dll
+C:\Sample\RCMU\RCMU_Domain\obj\Debug\RCMU_Domain.pdb
+C:\MVCProject\RCMU\RCMU_Domain\bin\Debug\RCMU_Domain.dll
+C:\MVCProject\RCMU\RCMU_Domain\bin\Debug\RCMU_Domain.pdb
+C:\MVCProject\RCMU\RCMU_Domain\bin\Debug\EntityFramework.dll
+C:\MVCProject\RCMU\RCMU_Domain\bin\Debug\EntityFramework.xml
+C:\MVCProject\RCMU\RCMU_Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\MVCProject\RCMU\RCMU_Domain\obj\Debug\RCMU_Domain.dll
+C:\MVCProject\RCMU\RCMU_Domain\obj\Debug\RCMU_Domain.pdb
+C:\MVCProject\RCMU\RCMU_Domain\bin\Debug\RCMU_Domain.dll.config

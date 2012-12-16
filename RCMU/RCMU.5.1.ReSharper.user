@@ -1,0 +1,51 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Controllers/f:HomeController.cs" caret="444" fromTop="23" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Shared/f:_Layout.cshtml" caret="1103" fromTop="12" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Content/f:Site.css" caret="5946" fromTop="30" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Enrollment.cs" caret="443" fromTop="15" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Course.cs" caret="371" fromTop="15" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Models/f:AccountModels.cs" caret="0" fromTop="0" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Student.cs" caret="436" fromTop="17" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:DBContext/f:SchoolContext.cs" caret="628" fromTop="22" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/f:Web.config" caret="526" fromTop="6" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/f:Global.asax.cs" caret="1325" fromTop="41" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Controllers/f:StudentController.cs" caret="289" fromTop="0" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Student/f:Index.cshtml" caret="89" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Shared/f:_Layout.cshtml" caret="389" fromTop="11" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Views/d:Shared/f:_Layout.cshtml" caret="1073" fromTop="23" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Content/f:Site.css" caret="5664" fromTop="16" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Content/f:Site.css" caret="5868" fromTop="26" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/d:Content/f:Site.css" caret="5946" fromTop="30" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Student.cs" caret="0" fromTop="0" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Enrollment.cs" caret="0" fromTop="0" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Student.cs" caret="409" fromTop="13" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Enrollment.cs" caret="443" fromTop="15" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:Entities/f:Course.cs" caret="371" fromTop="15" />
+      <File id="1DAB5753-20C3-4966-8571-16805E3C3B59/d:DBContext/f:SchoolContext.cs" caret="605" fromTop="11" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/f:Web.config" caret="526" fromTop="11" />
+      <File id="785F0616-FFA3-4121-BF7D-B1DE3A1E5729/f:Global.asax.cs" caret="1256" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

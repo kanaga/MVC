@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusStop", "BusStop\BusStop.csproj", "{9B5978EE-4C82-4E3F-9C02-BB8D42AC6A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusStop.Contracts", "BusStop.Contracts\BusStop.Contracts.csproj", "{7BE047B9-299A-4308-8B0B-13C7FD648BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusStop.backend", "BusStop.Endpoint\BusStop.backend.csproj", "{0DA08781-1E59-49C6-9240-15A5BB87DE05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusStop.Authenticate", "BusStop.Authenticate\BusStop.Authenticate.csproj", "{C5F0C5DA-6AF4-4D64-97F3-96FA364A725A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5978EE-4C82-4E3F-9C02-BB8D42AC6A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5978EE-4C82-4E3F-9C02-BB8D42AC6A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5978EE-4C82-4E3F-9C02-BB8D42AC6A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5978EE-4C82-4E3F-9C02-BB8D42AC6A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE047B9-299A-4308-8B0B-13C7FD648BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE047B9-299A-4308-8B0B-13C7FD648BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE047B9-299A-4308-8B0B-13C7FD648BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE047B9-299A-4308-8B0B-13C7FD648BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA08781-1E59-49C6-9240-15A5BB87DE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA08781-1E59-49C6-9240-15A5BB87DE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA08781-1E59-49C6-9240-15A5BB87DE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA08781-1E59-49C6-9240-15A5BB87DE05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F0C5DA-6AF4-4D64-97F3-96FA364A725A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F0C5DA-6AF4-4D64-97F3-96FA364A725A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F0C5DA-6AF4-4D64-97F3-96FA364A725A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F0C5DA-6AF4-4D64-97F3-96FA364A725A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

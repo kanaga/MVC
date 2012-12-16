@@ -1,0 +1,24 @@
+2012-10-22 19:40:57,082 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-10-22 19:40:57,441 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\MVCProject\BusStop\BusStop.Endpoint\bin\Debug\License\License.xml
+2012-10-22 19:40:57,581 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2012-10-22 19:40:57,675 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-10-22 19:40:58,002 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-10-22 19:40:58,018 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-10-22 19:42:58,858 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-10-22 19:42:58,988 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\MVCProject\BusStop\BusStop.Endpoint\bin\Debug\License\License.xml
+2012-10-22 19:42:59,028 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2012-10-22 19:42:59,118 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-10-22 19:42:59,388 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-10-22 19:42:59,398 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-10-22 19:55:13,545 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-10-22 19:55:13,717 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\MVCProject\BusStop\BusStop.Endpoint\bin\Debug\License\License.xml
+2012-10-22 19:55:13,748 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2012-10-22 19:55:13,919 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-10-22 19:55:14,309 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-10-22 19:55:14,356 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-10-22 19:59:54,329 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Checking available license...
+2012-10-22 19:59:54,500 [1] INFO  NServiceBus.Licensing [(null)] <(null)> - Could not find license file: C:\MVCProject\BusStop\BusStop.Endpoint\bin\Debug\License\License.xml
+2012-10-22 19:59:54,547 [1] WARN  NServiceBus.Licensing [(null)] <(null)> - No valid license file was found. The host will be limited to a throughput of 1msg/s.
+2012-10-22 19:59:54,688 [1] INFO  NServiceBus.Hosting.Roles.RoleManager [(null)] <(null)> - Role NServiceBus.AsA_Server configured
+2012-10-22 19:59:55,078 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.Production, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c
+2012-10-22 19:59:55,093 [1] INFO  NServiceBus.Host [(null)] <(null)> - Going to activate profile: NServiceBus.PerformanceCounters, NServiceBus.Host, Version=3.2.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c

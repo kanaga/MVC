@@ -1,0 +1,11 @@
+C:\MVCProject\Promotion.Web\Promotion.Web\bin\Promotion.Web.dll
+C:\MVCProject\Promotion.Web\Promotion.Web\bin\Promotion.Web.pdb
+C:\MVCProject\Promotion.Web\Promotion.Web\bin\EntityFramework.dll
+C:\MVCProject\Promotion.Web\Promotion.Web\bin\EntityFramework.xml
+C:\MVCProject\Promotion.Web\Promotion.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\MVCProject\Promotion.Web\Promotion.Web\obj\Debug\Promotion.Web.dll
+C:\MVCProject\Promotion.Web\Promotion.Web\obj\Debug\Promotion.Web.pdb
+C:\MVCProject\Promotion.Web\Promotion.Web\bin\Promotion.Model.dll
+C:\MVCProject\Promotion.Web\Promotion.Web\bin\Promotion.Repository.dll
+C:\MVCProject\Promotion.Web\Promotion.Web\bin\Promotion.Model.pdb
+C:\MVCProject\Promotion.Web\Promotion.Web\bin\Promotion.Repository.pdb

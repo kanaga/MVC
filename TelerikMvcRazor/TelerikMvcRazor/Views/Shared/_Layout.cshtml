@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>@ViewBag.Title</title>
+	<link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+@(Html.Telerik().StyleSheetRegistrar().DefaultGroup(group => group.Add("telerik.common.css").Add("telerik.vista.css").Combined(true).Compress(true)))</head>
+
+<body>
+	<div class="page">
+		<header>
+			<div id="title">
+				<h1>My MVC Application</h1>
+			</div>
+
+			@(Html.Telerik().Menu()
+					.Name("menu")
+					.Items(menu => {
+						menu.Add().Text("Home").Action("Index", "Home");
+						menu.Add().Text("About").Action("About", "Home");
+                        menu.Add().Text("Students").Action("Index","Student");
+                        menu.Add().Text("Courses").Action("Index", "Course");
+                        menu.Add().Text("Instructors").Action("Index", "Instructor");
+                        
+                       
+					}))
+		</header>
+		<section id="main">
+			@RenderBody()
+		</section>
+		<footer>
+		</footer>
+	</div>
+@(Html.Telerik().ScriptRegistrar().DefaultGroup(group => group.Combined(true).Compress(true)))</body>
+</html>

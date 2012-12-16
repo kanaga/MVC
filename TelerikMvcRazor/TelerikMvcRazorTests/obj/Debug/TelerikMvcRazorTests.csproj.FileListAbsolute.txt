@@ -1,0 +1,11 @@
+C:\MVCProject\TelerikMvcRazor\TelerikMvcRazorTests\bin\Debug\TelerikMvcRazorTests.dll
+C:\MVCProject\TelerikMvcRazor\TelerikMvcRazorTests\bin\Debug\TelerikMvcRazorTests.pdb
+C:\MVCProject\TelerikMvcRazor\TelerikMvcRazorTests\bin\Debug\TelerikMvcRazor.dll
+C:\MVCProject\TelerikMvcRazor\TelerikMvcRazorTests\bin\Debug\TelerikMvcRazor.pdb
+C:\MVCProject\TelerikMvcRazor\TelerikMvcRazorTests\obj\Debug\ResolveAssemblyReference.cache
+C:\MVCProject\TelerikMvcRazor\TelerikMvcRazorTests\obj\Debug\TelerikMvcRazorTests.dll
+C:\MVCProject\TelerikMvcRazor\TelerikMvcRazorTests\obj\Debug\TelerikMvcRazorTests.pdb
+C:\MVCProject\TelerikMvcRazor\TelerikMvcRazorTests\bin\Debug\RCMU_Domain.dll
+C:\MVCProject\TelerikMvcRazor\TelerikMvcRazorTests\bin\Debug\EntityFramework.dll
+C:\MVCProject\TelerikMvcRazor\TelerikMvcRazorTests\bin\Debug\RCMU_Domain.pdb
+C:\MVCProject\TelerikMvcRazor\TelerikMvcRazorTests\bin\Debug\EntityFramework.xml

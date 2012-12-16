@@ -1,0 +1,15 @@
+D:\projects\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll
+D:\projects\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.pdb
+D:\projects\EFMVC\EFMVC.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.dll
+D:\projects\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.pdb
+C:\MVCProject\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.dll
+C:\MVCProject\EFMVC\EFMVC.Tests\bin\Debug\EFMVC.Tests.pdb
+C:\MVCProject\EFMVC\EFMVC.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\MVCProject\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.dll
+C:\MVCProject\EFMVC\EFMVC.Tests\obj\Debug\EFMVC.Tests.pdb

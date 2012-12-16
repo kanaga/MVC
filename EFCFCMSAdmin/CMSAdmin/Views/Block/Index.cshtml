@@ -1,0 +1,35 @@
+﻿@model CMSAdmin.Models.BlockViewModel
+@{
+ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<div>
+@(Html.Telerik().Grid(Model.Blocks)
+    .Name("Grid")
+     .DataKeys(keys => keys.Add(c => c.BlockId))
+     .DataBinding(dataBinding => dataBinding.Server()
+              .Select("Edit", "Block")
+                .Insert("Insert", "Block")
+                .Update("Save", "Block")
+                .Delete("Delete", "Block"))
+    .Columns(columns=>
+      {
+          columns.Bound(c => c.BlockName).Width(300);
+          columns.Bound(c => c.CompanyId);
+          columns.Bound(c => c.DivisionId);
+          columns.Command(commands => { commands.Edit(); commands.Delete(); }).Width(200);
+         
+      })
+       .Pageable()
+       .Sortable()
+   
+
+
+
+
+
+
+        )
+    </div>

@@ -1,0 +1,15 @@
+D:\projects\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.dll
+D:\projects\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.pdb
+D:\projects\EFMVC\EFMVC.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.dll
+D:\projects\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.pdb
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.dll
+C:\Users\shiju\Desktop\EFMVC\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.pdb
+C:\MVCProject\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.dll
+C:\MVCProject\EFMVC\EFMVC.Core\bin\Debug\EFMVC.Core.pdb
+C:\MVCProject\EFMVC\EFMVC.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\MVCProject\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.dll
+C:\MVCProject\EFMVC\EFMVC.Core\obj\Debug\EFMVC.Core.pdb
